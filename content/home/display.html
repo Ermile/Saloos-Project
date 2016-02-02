@@ -1,0 +1,22 @@
+{%extends display.mvc%}
+
+
+{%block header%}{%endblock%}
+{%block footer%}{%endblock%}
+
+
+{%block content%}
+  <div id='bg'><img src="{{url.static}}images/launch/bg.png" alt='{{site.title}}' /></div>
+  <header ><h1>{{site.title}}</h1><h2>{{site.desc}}</h2></header>
+  <abbr id='txtsoon' title='{%trans "Comming Soon"%}'>{%trans "Comming Soon"%}. {%trans "Powered by Saloos"%}</abbr>
+  <footer>
+   <a target="_blank" href="http://ermile.com"><img id='ermile'src="{{url.static}}images/logo.png" alt="{{site.title}}" />{{site.slogan}}</a>
+   <div id='rocket'></div>
+   <div id='land'></div>
+  </footer>
+  <div class="bg-1"></div>
+  <div class="bg-2"></div>
+  <div class="bg-3"></div>
+
+
+{%endblock%}
