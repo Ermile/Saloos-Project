@@ -24,6 +24,7 @@ Changelog
 Author
 ------
 [Saloos] is Created by [Ermile] in IRAN
+[سالوس] در ایران و توسط [ارمایل] خلق شده است.
 [Javad Evazzadeh]
 
 
@@ -35,6 +36,8 @@ Licence! What does it mean?
 
 
 
+[Ermile]: <http://ermile.com>
+[ارمایل]: <http://ermile.ir>
 [Saloos on Github]: <https://github.com/Ermile/Saloos>
 [Saloos Official Website]: <http://saloos.ir>
 [Saloos]: <http://saloos.ir>
