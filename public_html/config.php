@@ -77,7 +77,7 @@ define('LogVisitors', false);
  *
  * add saloos control panel to this project
  */
-define('ControlPanel', false);
+define('ControlPanel', true);
 
 /**
  * Account
@@ -85,7 +85,7 @@ define('ControlPanel', false);
  *
  * add saloos Account manager to this project
  */
-define('Account', false);
+define('Account', true);
 
 /**
  * LangList
