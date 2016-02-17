@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Amon - Persian\n"
-"POT-Creation-Date: 2016-02-17 16:46+0330\n"
-"PO-Revision-Date: 2016-02-17 16:46+0330\n"
+"POT-Creation-Date: 2016-02-17 19:11+0330\n"
+"PO-Revision-Date: 2016-02-17 19:13+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -48,7 +48,7 @@ msgstr "کد"
 
 #: ../../../.././includes/cls/database/saloos/translation.php:13
 #: ../../../.././includes/cls/database/saloos/translation.php:73
-#: ../../../.././includes/languages/trans_addons.php:304
+#: ../../../.././includes/languages/trans_addons.php:306
 msgid "post"
 msgstr "نوشته"
 
@@ -108,7 +108,7 @@ msgstr "کاربر"
 
 #: ../../../.././includes/cls/database/saloos/translation.php:22
 #: ../../../.././includes/cls/database/saloos/translation.php:137
-#: ../../../.././includes/languages/trans_addons.php:316
+#: ../../../.././includes/languages/trans_addons.php:318
 msgid "visitor"
 msgstr "بازدیدکننده"
 
@@ -216,7 +216,7 @@ msgid "options"
 msgstr "تنظیمات"
 
 #: ../../../.././includes/cls/database/saloos/translation.php:64
-#: ../../../.././includes/languages/trans_addons.php:312
+#: ../../../.././includes/languages/trans_addons.php:314
 msgid "option"
 msgstr "تنظیمات"
 
@@ -1479,364 +1479,374 @@ msgstr "برای بارگزاری فایل های شما"
 msgid "page"
 msgstr "صفحه"
 
+#: ../../../.././includes/languages/trans_addons.php:304
+msgid "If you want to change password enter it, else leave it blank"
+msgstr ""
+"در صورت تمایل به تغییر گذرواژه آن را وارد کنید،‌ در غیر این ‌صورت این فیلد را "
+"خالی بگذارید"
+
 #: ../../../.././includes/languages/trans_addons.php:305
+msgid "Enter password within 5 to 40 character"
+msgstr "گذرواژه‌ای بین ۵ تا ۴۰ کاراکتر وارد کنید"
+
+#: ../../../.././includes/languages/trans_addons.php:307
 msgid "tag"
 msgstr "کلیدواژه"
 
-#: ../../../.././includes/languages/trans_addons.php:306
+#: ../../../.././includes/languages/trans_addons.php:308
 msgid "category"
 msgstr "دسته"
 
-#: ../../../.././includes/languages/trans_addons.php:307
+#: ../../../.././includes/languages/trans_addons.php:309
 msgid "filecategory"
 msgstr "دسته‌بندی فایل‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:308
+#: ../../../.././includes/languages/trans_addons.php:310
 msgid "File category"
 msgstr "دسته‌بندی فایل‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:309
+#: ../../../.././includes/languages/trans_addons.php:311
 msgid "File Category"
 msgstr "دسته‌بندی فایل‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:310
+#: ../../../.././includes/languages/trans_addons.php:312
 msgid "Filecategories"
 msgstr "دسته‌بندی فایل‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:311
+#: ../../../.././includes/languages/trans_addons.php:313
 msgid "attachment"
 msgstr "ضمیمه"
 
-#: ../../../.././includes/languages/trans_addons.php:313
+#: ../../../.././includes/languages/trans_addons.php:315
 msgid "search"
 msgstr "جستجو"
 
-#: ../../../.././includes/languages/trans_addons.php:314
+#: ../../../.././includes/languages/trans_addons.php:316
 msgid "upload"
 msgstr "بارگذاری"
 
-#: ../../../.././includes/languages/trans_addons.php:315
+#: ../../../.././includes/languages/trans_addons.php:317
 msgid "Control Panel"
 msgstr "کنترل پنل"
 
-#: ../../../.././includes/languages/trans_addons.php:317
+#: ../../../.././includes/languages/trans_addons.php:319
 msgid "Editor"
 msgstr "ویراستار"
 
-#: ../../../.././includes/languages/trans_addons.php:318
+#: ../../../.././includes/languages/trans_addons.php:320
 msgid "editor"
 msgstr "ویراستار"
 
-#: ../../../.././includes/languages/trans_addons.php:319
+#: ../../../.././includes/languages/trans_addons.php:321
 msgid "Administrator"
 msgstr "مدیر"
 
-#: ../../../.././includes/languages/trans_addons.php:320
+#: ../../../.././includes/languages/trans_addons.php:322
 msgid "Writer"
 msgstr "نویسنده"
 
-#: ../../../.././includes/languages/trans_addons.php:321
+#: ../../../.././includes/languages/trans_addons.php:323
 msgid "utility"
 msgstr "ابزار"
 
-#: ../../../.././includes/languages/trans_addons.php:322
+#: ../../../.././includes/languages/trans_addons.php:324
 msgid "Utility"
 msgstr "ابزار"
 
-#: ../../../.././includes/languages/trans_addons.php:323
+#: ../../../.././includes/languages/trans_addons.php:325
 msgid "tools"
 msgstr "ابزارها"
 
-#: ../../../.././includes/languages/trans_addons.php:324
+#: ../../../.././includes/languages/trans_addons.php:326
 msgid "tool"
 msgstr "ابزار"
 
-#: ../../../.././includes/languages/trans_addons.php:325
+#: ../../../.././includes/languages/trans_addons.php:327
 msgid "Chart must be contain at least 2 column!"
 msgstr "نمودار باید حداقل شامل دو ستون داده ای باشد!"
 
-#: ../../../.././includes/languages/trans_addons.php:326
+#: ../../../.././includes/languages/trans_addons.php:328
 msgid "Password"
 msgstr "کلمه عبور"
 
-#: ../../../.././includes/languages/trans_addons.php:327
+#: ../../../.././includes/languages/trans_addons.php:329
 msgid "between 5-40 character"
 msgstr "بین ۵ تا ۴۰ کاراکتر."
 
-#: ../../../.././includes/languages/trans_addons.php:328
+#: ../../../.././includes/languages/trans_addons.php:330
 msgid "between 5-40 character. be tricky!"
 msgstr "بین ۵ تا ۴۰ کاراکتر. در انتخاب کلمه عبور دقت به خرج دهید"
 
-#: ../../../.././includes/languages/trans_addons.php:329
+#: ../../../.././includes/languages/trans_addons.php:331
 msgid "Login"
 msgstr "ورود به سیستم"
 
-#: ../../../.././includes/languages/trans_addons.php:330
+#: ../../../.././includes/languages/trans_addons.php:332
 msgid "Create an account"
 msgstr "اکانت بسازید"
 
-#: ../../../.././includes/languages/trans_addons.php:331
+#: ../../../.././includes/languages/trans_addons.php:333
 msgid "Change password"
 msgstr "کلمه عبور"
 
-#: ../../../.././includes/languages/trans_addons.php:332
+#: ../../../.././includes/languages/trans_addons.php:334
 msgid "SMS Delivery"
 msgstr "رسید دریافت پیامک"
 
-#: ../../../.././includes/languages/trans_addons.php:333
+#: ../../../.././includes/languages/trans_addons.php:335
 msgid "SMS Callback"
 msgstr "پیامک های دریافتی"
 
-#: ../../../.././includes/languages/trans_addons.php:334
+#: ../../../.././includes/languages/trans_addons.php:336
 msgid "edit"
 msgstr "ویرایش"
 
-#: ../../../.././includes/languages/trans_addons.php:335
+#: ../../../.././includes/languages/trans_addons.php:337
 msgid "book"
 msgstr "کتاب"
 
-#: ../../../.././includes/languages/trans_addons.php:336
+#: ../../../.././includes/languages/trans_addons.php:338
 msgid "books"
 msgstr "کتاب‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:337
+#: ../../../.././includes/languages/trans_addons.php:339
 msgid "Book Categories"
 msgstr "دسته‌بندی کتاب"
 
-#: ../../../.././includes/languages/trans_addons.php:338
+#: ../../../.././includes/languages/trans_addons.php:340
 msgid "Bookcategories"
 msgstr "دسته‌بندی کتاب"
 
-#: ../../../.././includes/languages/trans_addons.php:339
+#: ../../../.././includes/languages/trans_addons.php:341
 msgid "bookcategory"
 msgstr "دسته‌بندی کتاب"
 
-#: ../../../.././includes/languages/trans_addons.php:340
+#: ../../../.././includes/languages/trans_addons.php:342
 msgid "Use categories to define sections of your site and group related books"
 msgstr "با استفاده از دسته‌بندی بخش های مختلف کتاب را گروه بندی کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:341
+#: ../../../.././includes/languages/trans_addons.php:343
 msgid "Use book to define important parts to use in posts"
 msgstr "کتاب های خود را در این بخش وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:342
+#: ../../../.././includes/languages/trans_addons.php:344
 msgid "Duplicate - File exist"
 msgstr "تکراری - فایل وجود دارد"
 
-#: ../../../.././includes/languages/trans_addons.php:343
+#: ../../../.././includes/languages/trans_addons.php:345
 msgid "Fail on tranfering file"
 msgstr "خطا در انتقال فایل"
 
-#: ../../../.././includes/languages/trans_addons.php:344
+#: ../../../.././includes/languages/trans_addons.php:346
 msgid "Error"
 msgstr "خطا"
 
-#: ../../../.././includes/languages/trans_addons.php:345
+#: ../../../.././includes/languages/trans_addons.php:347
 msgid "Invalid parameters"
 msgstr "پارامتر اشتباه"
 
-#: ../../../.././includes/languages/trans_addons.php:346
+#: ../../../.././includes/languages/trans_addons.php:348
 msgid "No file sent"
 msgstr "فایلی ارسال نشده"
 
-#: ../../../.././includes/languages/trans_addons.php:347
+#: ../../../.././includes/languages/trans_addons.php:349
 msgid "Exceeded filesize limit"
 msgstr "ظرفیت فایل بیش از حد مجاز"
 
-#: ../../../.././includes/languages/trans_addons.php:348
+#: ../../../.././includes/languages/trans_addons.php:350
 msgid "Unknown errors"
 msgstr "خطای نامشخص"
 
-#: ../../../.././includes/languages/trans_addons.php:349
+#: ../../../.././includes/languages/trans_addons.php:351
 msgid "We don't support this type of file"
 msgstr "ما این نوع فایل را پشتیبانی نمیکنیم"
 
-#: ../../../.././includes/languages/trans_addons.php:350
+#: ../../../.././includes/languages/trans_addons.php:352
 msgid "Publish new post in social networks"
 msgstr "انتشار پست جدید در شبکه‌های اجتماعی"
 
-#: ../../../.././includes/languages/trans_addons.php:351
+#: ../../../.././includes/languages/trans_addons.php:353
 msgid "Socialnetwork"
 msgstr "شبکه‌های اجتماعی"
 
-#: ../../../.././includes/languages/trans_addons.php:352
+#: ../../../.././includes/languages/trans_addons.php:354
 msgid "socialnetwork"
 msgstr "شبکه‌اجتماعی"
 
-#: ../../../.././includes/languages/trans_addons.php:353
+#: ../../../.././includes/languages/trans_addons.php:355
 msgid "Description"
 msgstr "توضیح"
 
-#: ../../../.././includes/languages/trans_addons.php:354
+#: ../../../.././includes/languages/trans_addons.php:356
 msgid "Title"
 msgstr "عنوان"
 
-#: ../../../.././includes/languages/trans_addons.php:355
+#: ../../../.././includes/languages/trans_addons.php:357
 msgid "Date"
 msgstr "تاریخ"
 
-#: ../../../.././includes/languages/trans_addons.php:356
+#: ../../../.././includes/languages/trans_addons.php:358
 msgid "Size"
 msgstr "اندازه"
 
-#: ../../../.././includes/languages/trans_addons.php:357
+#: ../../../.././includes/languages/trans_addons.php:359
 msgid "Ext"
 msgstr "پسوند"
 
-#: ../../../.././includes/languages/trans_addons.php:358
+#: ../../../.././includes/languages/trans_addons.php:360
 msgid "pages"
 msgstr "برگه‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:359
+#: ../../../.././includes/languages/trans_addons.php:361
 msgid "tags"
 msgstr "کلیدواژه‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:360
+#: ../../../.././includes/languages/trans_addons.php:362
 msgid "categories"
 msgstr "دسته‌بندی‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:361
+#: ../../../.././includes/languages/trans_addons.php:363
 msgid "filecategories"
 msgstr "دسته‌بندی فایل‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:362
+#: ../../../.././includes/languages/trans_addons.php:364
 msgid "bookcategories"
 msgstr "دسته‌بندی کتاب‌ها"
 
-#: ../../../.././includes/languages/trans_addons.php:363
+#: ../../../.././includes/languages/trans_addons.php:365
 msgid "permissions"
 msgstr "سطوح‌دسترسی"
 
-#: ../../../.././includes/languages/trans_addons.php:364
+#: ../../../.././includes/languages/trans_addons.php:366
 msgid "logout"
 msgstr "خروج از سیستم"
 
-#: ../../../.././includes/languages/trans_addons.php:365
+#: ../../../.././includes/languages/trans_addons.php:367
 msgid "lock"
 msgstr "قفل سیستم"
 
-#: ../../../.././includes/languages/trans_addons.php:366
+#: ../../../.././includes/languages/trans_addons.php:368
 msgid "profile"
 msgstr "پروفایل"
 
-#: ../../../.././includes/languages/trans_addons.php:367
+#: ../../../.././includes/languages/trans_addons.php:369
 msgid "Enter your registered mobile"
 msgstr "موبایل ثبت شده را وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:368
+#: ../../../.././includes/languages/trans_addons.php:370
 msgid "Enter your password"
 msgstr "کلمه عبور خود را وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:369
+#: ../../../.././includes/languages/trans_addons.php:371
 msgid "Recovery"
 msgstr "بازیابی کلمه عبور"
 
-#: ../../../.././includes/languages/trans_addons.php:370
+#: ../../../.././includes/languages/trans_addons.php:372
 msgid "your recovery code is"
 msgstr "کد بازیابی کلمه عبور شما"
 
-#: ../../../.././includes/languages/trans_addons.php:371
+#: ../../../.././includes/languages/trans_addons.php:373
 msgid "recovery failed!"
 msgstr "بازیابی ناموفق بود!"
 
-#: ../../../.././includes/languages/trans_addons.php:372
+#: ../../../.././includes/languages/trans_addons.php:374
 msgid "Mobile number is incorrect"
 msgstr "این شماره موبایل اشتباه است."
 
-#: ../../../.././includes/languages/trans_addons.php:373
+#: ../../../.././includes/languages/trans_addons.php:375
 msgid "Verificate"
 msgstr "اعتبارسنجی"
 
-#: ../../../.././includes/languages/trans_addons.php:374
+#: ../../../.././includes/languages/trans_addons.php:376
 msgid "Verification"
 msgstr "اعتبارسنجی"
 
-#: ../../../.././includes/languages/trans_addons.php:375
+#: ../../../.././includes/languages/trans_addons.php:377
 msgid "verify successfully."
 msgstr "اعتبارسنجی موفقیت آمیز بود."
 
-#: ../../../.././includes/languages/trans_addons.php:376
+#: ../../../.././includes/languages/trans_addons.php:378
 msgid "please Input your new password"
 msgstr "لطفا کلمه عبور جدید را وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:377
+#: ../../../.././includes/languages/trans_addons.php:379
 msgid "verify failed!"
 msgstr "اعتبارسنجی ناموفق بود!"
 
-#: ../../../.././includes/languages/trans_addons.php:378
+#: ../../../.././includes/languages/trans_addons.php:380
 msgid "this data is incorrect"
 msgstr "این اطلاعات اشتباه است"
 
-#: ../../../.././includes/languages/trans_addons.php:379
+#: ../../../.././includes/languages/trans_addons.php:381
 msgid "Check your mobile and enter the code"
 msgstr "پس از بررسی موبایل خود کد را وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:380
+#: ../../../.././includes/languages/trans_addons.php:382
 msgid "Current Password"
 msgstr "گذرواژه فعلی"
 
-#: ../../../.././includes/languages/trans_addons.php:381
+#: ../../../.././includes/languages/trans_addons.php:383
 msgid "New Password"
 msgstr "گذرواژه جدید"
 
-#: ../../../.././includes/languages/trans_addons.php:382
+#: ../../../.././includes/languages/trans_addons.php:384
 msgid "Change it"
 msgstr "تغییر بده"
 
-#: ../../../.././includes/languages/trans_addons.php:383
+#: ../../../.././includes/languages/trans_addons.php:385
 msgid "change password successfully"
 msgstr "تغییر کلمه عبور با موفقیت به انجام رسید"
 
-#: ../../../.././includes/languages/trans_addons.php:384
+#: ../../../.././includes/languages/trans_addons.php:386
 msgid "change password failed!"
 msgstr "تغییر کلمه عبور ناموفق بود!"
 
-#: ../../../.././includes/languages/trans_addons.php:385
+#: ../../../.././includes/languages/trans_addons.php:387
 msgid "First you must enter name of permission"
 msgstr "در ابتدا نام سطح‌دسترسی جدید را وارد کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:386
+#: ../../../.././includes/languages/trans_addons.php:388
 msgid "This permission name exist!"
 msgstr "این نام برای سطح‌دسترسی از قبل وجود دارد!"
 
-#: ../../../.././includes/languages/trans_addons.php:387
+#: ../../../.././includes/languages/trans_addons.php:389
 msgid "You can edit this permission"
 msgstr "شما می‌توانید این سطح‌دسترسی را ویرایش کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:388
+#: ../../../.././includes/languages/trans_addons.php:390
 msgid ""
 "Define or edit user permissions to allow or block access to special pages"
 msgstr "تعریف یا ویرایش سطوح‌دسترسی برای اجازه یا ممنوع کردن دسترسی به صفحات خاص"
 
-#: ../../../.././includes/languages/trans_addons.php:389
+#: ../../../.././includes/languages/trans_addons.php:391
 msgid "You are editing permission"
 msgstr "شما در حال ویرایش سطح‌دسترسی"
 
-#: ../../../.././includes/languages/trans_addons.php:390
+#: ../../../.././includes/languages/trans_addons.php:392
 msgid "we send a verification code to this number"
 msgstr "کد اعتبارسنجی به این شماره ارسال خواهد شد"
 
-#: ../../../.././includes/languages/trans_addons.php:391
+#: ../../../.././includes/languages/trans_addons.php:393
 msgid "you account is verified successfully"
 msgstr "اعتبارسنجی اکانت شما با موفقیت به انجام رسید"
 
-#: ../../../.././includes/languages/trans_addons.php:392
+#: ../../../.././includes/languages/trans_addons.php:394
 msgid "your verification code is"
 msgstr "کد اعتبارسنجی شما"
 
-#: ../../../.././includes/languages/trans_addons.php:393
+#: ../../../.././includes/languages/trans_addons.php:395
 msgid "your password is changed successfully"
 msgstr "گذرواژه شما با موفقیت تغییر یافت"
 
-#: ../../../.././includes/languages/trans_addons.php:394
+#: ../../../.././includes/languages/trans_addons.php:396
 msgid "now we only support Iran!"
 msgstr "در حال حاضر ما فقط به شماره های ایران سرویس می دهیم!"
 
-#: ../../../.././includes/languages/trans_addons.php:395
+#: ../../../.././includes/languages/trans_addons.php:397
 msgid "thanks for using our service"
 msgstr "متشکریم که از سرویس ما استفاده می کنید"
 
-#: ../../../.././includes/languages/trans_addons.php:396
+#: ../../../.././includes/languages/trans_addons.php:398
 #: ../../../.././includes/languages/trans_twig.php:11
 msgid " "
 msgstr " "
