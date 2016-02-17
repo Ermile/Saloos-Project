@@ -47,10 +47,7 @@ class visitors
 		$this->setChild();
 	}
 
-	public function visitor_createdate()
-	{
-		$this->form()->type('text')->name('createdate');
-	}
+	public function visitor_createdate(){}
 
 	public function date_modified(){}
 }

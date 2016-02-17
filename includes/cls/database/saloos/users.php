@@ -46,10 +46,7 @@ class users
 		$this->form()->type('number')->name('permission')->min()->max('99999');
 	}
 
-	public function user_createdate()
-	{
-		$this->form()->type('text')->name('createdate')->required();
-	}
+	public function user_createdate(){}
 
 	public function date_modified(){}
 }

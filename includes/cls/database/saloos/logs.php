@@ -39,10 +39,7 @@ class logs
 		$this->setChild();
 	}
 
-	public function log_createdate()
-	{
-		$this->form()->type('text')->name('createdate')->required();
-	}
+	public function log_createdate(){}
 
 	public function date_modified(){}
 }
