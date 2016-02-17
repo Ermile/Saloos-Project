@@ -1,6 +1,6 @@
 <?php
 namespace database\saloos;
-class visitors 
+class visitors
 {
 	public $id                 = ['null'=>'NO'  ,'show'=>'YES'     ,'label'=>'id'              ,'type'=>'bigint@20'];
 	public $visitor_ip         = ['null'=>'NO'  ,'show'=>'YES'     ,'label'=>'ip'              ,'type'=>'int@10'];
