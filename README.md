@@ -18,6 +18,7 @@ Already we don't have good documentaion! We hope can complete this before die!
 
 Changelog
 ---------
+ * Version 1.1.0: some fix and updates
  * Version 1.0.0: start publish on Github
 
 
