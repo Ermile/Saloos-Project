@@ -13,8 +13,8 @@ class view extends \lib\mvc\view
 
 		$this->data->page['desc']    = T_("Ermile is Inteligent.");
 
-		if(! ($this->url('sub') === 'cp' || $this->url('sub') === 'account') )
-			$this->url->MainStatic       = false;
+		// if(! ($this->url('sub') === 'cp' || $this->url('sub') === 'account') )
+		// 	$this->url->MainStatic       = false;
 
 		/*
 		// add language list for use in display
