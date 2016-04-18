@@ -1,7 +1,6 @@
 <?php
 /**
  @ In the name Of Allah
- * The base configurations of the SAMAC.
  * This file has the configurations of MySQL settings and useful core settings
  */
 
