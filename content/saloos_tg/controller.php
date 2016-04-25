@@ -12,7 +12,7 @@ class controller extends \lib\mvc\controller
 		if($this->url('path') == $myhook)
 		{
 			$result = self::tg_handle();
-			if(DEBUG)
+			if(\lib\utility\option::get('telegram', 'meta', 'debug'))
 			{
 				var_dump($result);
 			}
