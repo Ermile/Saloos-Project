@@ -21,7 +21,7 @@ body {
     height: 100%;
 }
 
-body {
+body.ltr {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
