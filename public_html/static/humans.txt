@@ -20,8 +20,8 @@ Proudly made in IRAN, powered by Saloos.
 
 
 /* SITE */
-	Last update: 20/4/2015
-	Version: 0.0.1
+	Last update: 28/05/2016
+	Version: 1.0.0
 	Language: Farsi / English
 	Doctype: HTML5
 	IDE: Sublime!

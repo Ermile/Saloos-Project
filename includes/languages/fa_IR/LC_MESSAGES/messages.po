@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Amon - Persian\n"
-"POT-Creation-Date: 2016-04-23 11:38+0430\n"
-"PO-Revision-Date: 2016-04-23 11:38+0430\n"
+"POT-Creation-Date: 2016-05-28 17:14+0430\n"
+"PO-Revision-Date: 2016-05-28 17:14+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -584,7 +584,8 @@ msgstr "برخی از حقوق محفوظ است!"
 msgid "Powered by"
 msgstr "قدرت گرفته از"
 
-#: includes/languages/trans_addons.php:78 includes/languages/trans_twig.php:10
+#: includes/languages/trans_addons.php:78 includes/languages/trans_twig.php:44
+#: includes/mvc/view.php:10
 msgid "Saloos"
 msgstr "سالوس"
 
@@ -1149,7 +1150,7 @@ msgstr "دیتابیس پروژه"
 msgid "saloos"
 msgstr "سالوس"
 
-#: includes/languages/trans_addons.php:234 includes/languages/trans_twig.php:7
+#: includes/languages/trans_addons.php:234
 msgid "Powered by Saloos"
 msgstr "قدرت گرفته از سالوس"
 
@@ -1301,7 +1302,7 @@ msgstr "تمام رکوردهای الزامی باید پر شوند"
 msgid "some fields must be change for update!"
 msgstr "برای بروزرسانی باید حداقل یک فیلد را تغییر دهید!"
 
-#: includes/languages/trans_addons.php:272 includes/mvc/view.php:10
+#: includes/languages/trans_addons.php:272 includes/languages/trans_twig.php:30
 msgid "Ermile"
 msgstr "ارمایل"
 
@@ -1365,7 +1366,7 @@ msgstr "ثبت نام"
 msgid "home"
 msgstr "خانه"
 
-#: includes/languages/trans_addons.php:288
+#: includes/languages/trans_addons.php:288 includes/languages/trans_twig.php:6
 msgid "Home"
 msgstr "صفحه نخست"
 
@@ -1413,7 +1414,7 @@ msgstr "قدرت گرفته از سالوس."
 msgid "All right reserved."
 msgstr "تمام حقوق محفوظ است."
 
-#: includes/languages/trans_addons.php:300 includes/languages/trans_twig.php:6
+#: includes/languages/trans_addons.php:300
 msgid "Comming Soon"
 msgstr "بزودی"
 
@@ -2172,7 +2173,7 @@ msgstr "در حال حاضر ما فقط به شماره های ایران سر�
 msgid "Thanks for using our service"
 msgstr "متشکریم که از سرویس ما استفاده می‌کنید"
 
-#: includes/languages/trans_addons.php:492 includes/languages/trans_twig.php:11
+#: includes/languages/trans_addons.php:492 includes/languages/trans_twig.php:45
 msgid " "
 msgstr " "
 
@@ -2180,17 +2181,164 @@ msgstr " "
 msgid "Select"
 msgstr "انتخاب"
 
+#: includes/languages/trans_twig.php:7
+msgid "Slogan"
+msgstr "شعار"
+
+#: includes/languages/trans_twig.php:8
+msgid "About"
+msgstr "درباره"
+
+#: includes/languages/trans_twig.php:9
+msgid "Contact"
+msgstr "تماس"
+
+#: includes/languages/trans_twig.php:10
+msgid "Find Out More"
+msgstr "بیشتر بدانید"
+
+#: includes/languages/trans_twig.php:11
+msgid "Check on Github"
+msgstr "گیت‌هاب"
+
+#: includes/languages/trans_twig.php:12
+msgid "Secure, Fast and Flexible"
+msgstr "ایمن، سریع و انعطاف‌پذیر"
+
+#: includes/languages/trans_twig.php:13
+msgid "Our story in timeline"
+msgstr "داستان ما در مرور زمان"
+
+#: includes/languages/trans_twig.php:14
+msgid "2006-2010"
+msgstr "۱۳۸۵-۱۳۸۹"
+
+#: includes/languages/trans_twig.php:15
+msgid "Our Friendship Beginnings"
+msgstr "سرآغاز آشنایی ما"
+
+#: includes/languages/trans_twig.php:16
+msgid "We find each other in Iran national skills competition that knowns as"
+msgstr "ما در مسابقات ملی مهارت با همدیگر آشنا شدیم، مسابقاتی معروف به"
+
+#: includes/languages/trans_twig.php:17
+msgid "Worldskills"
+msgstr "المپیاد جهانی مهارت"
+
+#: includes/languages/trans_twig.php:18
+msgid "Javad Evazzadeh Kakroudi"
+msgstr "جواد عوض‌زاده کاکرودی"
+
+#: includes/languages/trans_twig.php:19
+msgid "Saman Soltani"
+msgstr "سامان سلطانی"
+
+#: includes/languages/trans_twig.php:20
+msgid "Hasan Salehi Hajiabadi"
+msgstr "حسن صالحی حاجی‌آبادی"
+
+#: includes/languages/trans_twig.php:21
+msgid "and"
+msgstr "و"
+
+#: includes/languages/trans_twig.php:22
+msgid "Omid Pilevar"
+msgstr "امید پیله‌ور"
+
+#: includes/languages/trans_twig.php:23
+msgid "Framework is Born"
+msgstr "تولد فریم‌ورک"
+
+#: includes/languages/trans_twig.php:24
+msgid "Idea of creating PHP framework is started"
+msgstr "ایده ساخت فریم‌ورک پی‌اچ‌پی آغاز شد."
+
+#: includes/languages/trans_twig.php:25
+msgid "Hasan is selected to creating framework basics"
+msgstr "حسن برای ساخت اجزای اولیه فریم‌ورک انتخاب شد"
+
+#: includes/languages/trans_twig.php:26
+msgid "November 2014"
+msgstr "آبان ۱۳۹۳"
+
+#: includes/languages/trans_twig.php:27
+msgid "First Service"
+msgstr "اولین سرویس"
+
+#: includes/languages/trans_twig.php:28
+msgid "First project is launching with this framework"
+msgstr "اولین پروژه با این فریم‌ورک راه‌اندازی شد"
+
+#: includes/languages/trans_twig.php:29
+msgid "September 2015"
+msgstr "شهریور ۱۳۹۴"
+
+#: includes/languages/trans_twig.php:31
+msgid "We can doing hard job!"
+msgstr "ما می‌توانیم!"
+
+#: includes/languages/trans_twig.php:32
+msgid "We can register Ermile trademark:)"
+msgstr "نام تجاری ارمایل توسط ما به ثبت رسید:)"
+
+#: includes/languages/trans_twig.php:33
+msgid "To be <br />continue..."
+msgstr "ادامه دارد..."
+
+#: includes/languages/trans_twig.php:34
+msgid "Download Latest Version"
+msgstr "دانلود آخرین نسخه"
+
+#: includes/languages/trans_twig.php:35
+msgid "Location"
+msgstr "مکان"
+
+#: includes/languages/trans_twig.php:36
+msgid "#83 Moallem St"
+msgstr "خیابان معلم، پلاک ۸۳"
+
+#: includes/languages/trans_twig.php:37
+msgid "Qom, IRAN"
+msgstr "ایران، قم"
+
+#: includes/languages/trans_twig.php:38
+msgid "+98 25 3773 5183"
+msgstr "+989357269759"
+
+#: includes/languages/trans_twig.php:39
+msgid "Another Languages"
+msgstr "سایر زبان‌ها"
+
+#: includes/languages/trans_twig.php:40
+msgid " is a free to use, open source PHP framework created by"
+msgstr "برای استفاده رایگان است، یک فریم‌ورک پی‌اچ‌پی منبع‌باز ساخته شده توسط"
+
+#: includes/languages/trans_twig.php:41
+msgid "Copyright"
+msgstr "کپی‌رایت"
+
 #: includes/mvc/view.php:11
-msgid "Ermile is new"
-msgstr "ارمایل جدید است!"
+msgid "Free PHP Framework & CMS!"
+msgstr "فریم‌ورک و سیستم مدیریت محتوای رایگان با پی‌اچ‌پی"
 
-#: includes/mvc/view.php:12
-msgid "Ermile is our company"
-msgstr "ارمایل شرکت ماست"
+#: includes/mvc/view.php:12 includes/mvc/view.php:14
+msgid "Saloos is a cirsium vulgare for php programmers! :)"
+msgstr "سالوس یک کنگر برای برنامه‌نویسان پی‌اچ‌پی است! :)"
 
-#: includes/mvc/view.php:14
-msgid "Ermile is Inteligent."
-msgstr "ارمایل باهوش است!"
+#~ msgid "Features"
+#~ msgstr "امکانات"
+
+#~ msgid "Services"
+#~ msgstr "سرویس‌ها"
+
+#~ msgid "Ermile is new"
+#~ msgstr "ارمایل جدید است!"
+
+#~ msgid "Ermile is our company"
+#~ msgstr "ارمایل شرکت ماست"
+
+#~ msgid "Ermile is Inteligent."
+#~ msgstr "ارمایل باهوش است!"
 
 #~ msgid "Redirect to main address"
 #~ msgstr "انتقال کاربران به دامنه اصلی"
@@ -3272,9 +3420,6 @@ msgstr "ارمایل باهوش است!"
 
 #~ msgid "Funds"
 #~ msgstr "صندوق ها"
-
-#~ msgid "Location"
-#~ msgstr "مکان"
 
 #~ msgid "Locations"
 #~ msgstr "مکان ها"
