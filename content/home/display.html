@@ -20,6 +20,10 @@
    <li><a href="#slogan" onclick = $("#menu-close").click();>{%trans "Slogan"%}</a></li>
    <li><a href="#timeline" onclick = $("#menu-close").click();>{%trans "About"%}</a></li>
    <li><a href="#contact" onclick = $("#menu-close").click();>{%trans "Contact"%}</a></li>
+   <li class="langList">{%trans "Language List"%}</li>
+{%for key, lang in site.langlist if site.langlist|length >1 and site.currentlang != key|slice(0, 2)%}
+   <li ><a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}{{key|slice(0, 2)}}/{%endif%}{{url.path}}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a></li>
+{%endfor%}
   </ul>
  </nav>
 
@@ -87,11 +91,11 @@
        </div>
        <div class="timeline-panel">
         <div class="timeline-heading">
-         <h4>2013</h4>
+         <h4>{%trans "2013"%}</h4>
          <h4 class="subheading">{%trans "Framework is Born"%}</h4>
         </div>
         <div class="timeline-body">
-         <p class="text-muted">{%trans "Idea of creating PHP framework is started"%}. {%trans "Hasan is selected to creating framework basics"%}.</p>
+         <p class="text-muted">{%trans "Idea of create PHP framework was started"%}. {%trans "Hasan selected to create framework basics."%}.</p>
         </div>
        </div>
       </li>

@@ -1,21 +1,19 @@
 {%extends display.mvc%}
-{%block content%}
-  <section>
-    <div class="topic blue1">
-      <div class="row Slogan">
-        <h2>Default</h2>
-      </div>
-      <div class="body">
-        <div class="row">
-          <div class="span7"></div>
-          <div class="span5">
-            <div class="desc">
-              {{post.content}}
-            </div>
 
-          </div>
-        </div>
-      </div>
-    </div>
+
+{%block content%}
+ <div class="container">
+  <header>
+   <h1><a href="/" class="hint--right hint--info" data-hint="{{site.desc}}">{{site.title}}</a></h1>
+  </header>
+
+  <section>
+   <h2>{{post.title}}</h2>
+   <div class="content">{{post.content |raw}}</div>
   </section>
+
+  <footer>
+    {%trans "Some right reserved!"%}
+  </footer>
+ </div>
 {%endblock%}

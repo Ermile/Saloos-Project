@@ -338,7 +338,10 @@ footer a, footer a:hover, footer a:focus, footer a:active, footer a.active {
     outline: 0;
 }
 
-
+li.langList{
+	margin-top: 50px;
+	color: #eee;
+}
 
 
 
@@ -555,9 +558,19 @@ section#timeline h3.section-subheading {
         margin-left: -85px
     }
     .timeline>li .timeline-image h4 {
-        margin-top: 40px
+        margin-top: 2.6em
+    }
+    .rtl .timeline>li .timeline-image h4 {
+        margin-top: 3.5em
     }
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px
     }
+}
+
+
+
+@media only screen and (max-width: 330px){
+	body{display:none;}
+	html::before{content:"!";position:absolute;left: 35%;font-size:100vw;}
 }
