@@ -29,3 +29,12 @@ footer{
 	border-top: 1px solid #eee;
 	text-align: center;
 }
+
+.breadcrumb {width: 100%;background: #f9f9f9;padding: 6px 15px;display:inline-block;}
+.breadcrumb a{font-size: 1em;line-height:12px;color: #99a0aa;float:left;font-weight:700}
+.rtl .breadcrumb a{float:right;}
+.breadcrumb a:hover {color: #656d78;}
+.breadcrumb a:last-child {color: #656d78;}
+.breadcrumb > a + a:before {content: "<";color: #99a0aa;padding: 0px 8px;float:left;}
+.rtl .breadcrumb > a + a:before {content: ">";float:right;}
+
