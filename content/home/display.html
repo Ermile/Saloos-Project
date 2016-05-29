@@ -9,17 +9,23 @@
 
 
 {%block body%}
-<!DOCTYPE html>
  <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="glyphicon glyphicon-th-list"></i></a>
  <nav id="sidebar-wrapper">
   <ul class="sidebar-nav">
-   <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="glyphicon glyphicon-remove
-"></i></a>
+   <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="glyphicon glyphicon-remove"></i></a>
    <li class="sidebar-brand"><a href="#top"  onclick = $("#menu-close").click(); >{{site.title}}</a></li>
    <li><a href="#top" onclick = $("#menu-close").click();>{%trans "Home"%}</a></li>
    <li><a href="#slogan" onclick = $("#menu-close").click();>{%trans "Slogan"%}</a></li>
    <li><a href="#timeline" onclick = $("#menu-close").click();>{%trans "About"%}</a></li>
    <li><a href="#contact" onclick = $("#menu-close").click();>{%trans "Contact"%}</a></li>
+   <hr />
+{%if site.currentlang == 'fa'%}
+   <li><a href="/doc">{%trans "Documentation"%}</a></li>
+{%endif%}
+   <li><a href="https://github.com/Ermile/Saloos/" target="_blank">
+   {%trans "Check on Github"%}</a></li>
+   <li><a href="https://github.com/Ermile/Saloos/archive/master.zip" target="_blank">{%trans "Download Latest Version"%}</a></li>
+
    <li class="langList">{%trans "Language List"%}</li>
 {%for key, lang in site.langlist if site.langlist|length >1 and site.currentlang != key|slice(0, 2)%}
    <li ><a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}{{key|slice(0, 2)}}/{%endif%}{{url.path}}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a></li>
@@ -34,6 +40,9 @@
    <h3>{{site.desc}}</h3>
    <br>
    <a href="#slogan" class="btn btn-dark btn-lg">{%trans "Find Out More"%}</a>
+{%if site.currentlang == 'fa'%}
+   <a href="/doc" class="btn btn-dark btn-lg">{%trans "Documentation"%}</a>
+{%endif%}
    <a href="https://github.com/Ermile/Saloos/" class="btn btn-dark btn-lg" target="_blank">{%trans "Check on Github"%}</a>
   </div>
  </header>

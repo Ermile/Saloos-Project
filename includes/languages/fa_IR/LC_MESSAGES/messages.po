@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Amon - Persian\n"
-"POT-Creation-Date: 2016-05-28 19:21+0430\n"
-"PO-Revision-Date: 2016-05-28 19:21+0430\n"
+"POT-Creation-Date: 2016-05-29 12:40+0430\n"
+"PO-Revision-Date: 2016-05-29 12:40+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -487,7 +487,7 @@ msgstr "ربات‌ها"
 msgid "Add New Record"
 msgstr "افزودن رکورد جدید"
 
-#: includes/languages/trans_addons.php:52
+#: includes/languages/trans_addons.php:52 includes/languages/trans_twig.php:47
 msgid "View your current location and navigate to parent of it"
 msgstr "مکان فعلی خود را دیده و به مکان‌های والد آن منتقل شوید"
 
@@ -588,7 +588,7 @@ msgstr "برخی از حقوق محفوظ است!"
 msgid "Powered by"
 msgstr "قدرت گرفته از"
 
-#: includes/languages/trans_addons.php:79 includes/languages/trans_twig.php:49
+#: includes/languages/trans_addons.php:79 includes/languages/trans_twig.php:51
 #: includes/mvc/view.php:10
 msgid "Saloos"
 msgstr "سالوس"
@@ -1350,7 +1350,7 @@ msgstr "تمام رکوردهای الزامی باید پر شوند"
 msgid "some fields must be change for update!"
 msgstr "برای بروزرسانی باید حداقل یک فیلد را تغییر دهید!"
 
-#: includes/languages/trans_addons.php:286 includes/languages/trans_twig.php:32
+#: includes/languages/trans_addons.php:286 includes/languages/trans_twig.php:34
 msgid "Ermile"
 msgstr "ارمایل"
 
@@ -2217,7 +2217,7 @@ msgstr "در حال حاضر ما فقط به شماره های ایران سر�
 msgid "Thanks for using our service"
 msgstr "متشکریم که از سرویس ما استفاده می‌کنید"
 
-#: includes/languages/trans_addons.php:505 includes/languages/trans_twig.php:50
+#: includes/languages/trans_addons.php:505 includes/languages/trans_twig.php:52
 msgid " "
 msgstr " "
 
@@ -2238,138 +2238,142 @@ msgid "Contact"
 msgstr "تماس"
 
 #: includes/languages/trans_twig.php:10
-msgid "Language List"
-msgstr "لیست زبان‌ها"
+msgid "Documentation"
+msgstr "مستندات"
 
 #: includes/languages/trans_twig.php:11
-msgid "Find Out More"
-msgstr "بیشتر بدانید"
-
-#: includes/languages/trans_twig.php:12
 msgid "Check on Github"
 msgstr "گیت‌هاب"
 
-#: includes/languages/trans_twig.php:13
-msgid "Secure, Fast and Flexible"
-msgstr "ایمن، سریع و انعطاف‌پذیر"
-
-#: includes/languages/trans_twig.php:14
-msgid "Our story in timeline"
-msgstr "داستان ما در مرور زمان"
-
-#: includes/languages/trans_twig.php:15
-msgid "2006-2010"
-msgstr "۱۳۸۵-۱۳۸۹"
-
-#: includes/languages/trans_twig.php:16
-msgid "Our Friendship Beginnings"
-msgstr "سرآغاز آشنایی ما"
-
-#: includes/languages/trans_twig.php:17
-msgid "We find each other in Iran national skills competition that knowns as"
-msgstr "ما در مسابقات ملی مهارت با همدیگر آشنا شدیم، مسابقاتی معروف به"
-
-#: includes/languages/trans_twig.php:18
-msgid "Worldskills"
-msgstr "المپیاد جهانی مهارت"
-
-#: includes/languages/trans_twig.php:19
-msgid "Javad Evazzadeh Kakroudi"
-msgstr "جواد عوض‌زاده کاکرودی"
-
-#: includes/languages/trans_twig.php:20
-msgid "Saman Soltani"
-msgstr "سامان سلطانی"
-
-#: includes/languages/trans_twig.php:21
-msgid "Hasan Salehi Hajiabadi"
-msgstr "حسن صالحی حاجی‌آبادی"
-
-#: includes/languages/trans_twig.php:22
-msgid "and"
-msgstr "و"
-
-#: includes/languages/trans_twig.php:23
-msgid "Omid Pilevar"
-msgstr "امید پیله‌ور"
-
-#: includes/languages/trans_twig.php:24
-msgid "2013"
-msgstr "۱۳۹۲"
-
-#: includes/languages/trans_twig.php:25
-msgid "Framework is Born"
-msgstr "تولد فریم‌ورک"
-
-#: includes/languages/trans_twig.php:26
-msgid "Idea of create PHP framework was started"
-msgstr "ایده ساخت فریم‌ورک پی‌اچ‌پی آغاز شد."
-
-#: includes/languages/trans_twig.php:27
-msgid "Hasan selected to create framework basics."
-msgstr "حسن برای ساخت اجزای اولیه فریم‌ورک انتخاب شد."
-
-#: includes/languages/trans_twig.php:28
-msgid "November 2014"
-msgstr "آبان ۱۳۹۳"
-
-#: includes/languages/trans_twig.php:29
-msgid "First Service"
-msgstr "اولین سرویس"
-
-#: includes/languages/trans_twig.php:30
-msgid "First project is launching with this framework"
-msgstr "اولین پروژه با این فریم‌ورک راه‌اندازی شد"
-
-#: includes/languages/trans_twig.php:31
-msgid "September 2015"
-msgstr "شهریور ۱۳۹۴"
-
-#: includes/languages/trans_twig.php:33
-msgid "We can doing hard job!"
-msgstr "ما می‌توانیم!"
-
-#: includes/languages/trans_twig.php:34
-msgid "We can register Ermile trademark:)"
-msgstr "نام تجاری ارمایل توسط ما به ثبت رسید:)"
-
-#: includes/languages/trans_twig.php:35
-msgid "To be <br />continue..."
-msgstr "ادامه دارد..."
-
-#: includes/languages/trans_twig.php:36
+#: includes/languages/trans_twig.php:12
 msgid "Download Latest Version"
 msgstr "دانلود آخرین نسخه"
 
+#: includes/languages/trans_twig.php:13
+msgid "Language List"
+msgstr "لیست زبان‌ها"
+
+#: includes/languages/trans_twig.php:14
+msgid "Find Out More"
+msgstr "بیشتر بدانید"
+
+#: includes/languages/trans_twig.php:15
+msgid "Secure, Fast and Flexible"
+msgstr "ایمن، سریع و انعطاف‌پذیر"
+
+#: includes/languages/trans_twig.php:16
+msgid "Our story in timeline"
+msgstr "داستان ما در مرور زمان"
+
+#: includes/languages/trans_twig.php:17
+msgid "2006-2010"
+msgstr "۱۳۸۵-۱۳۸۹"
+
+#: includes/languages/trans_twig.php:18
+msgid "Our Friendship Beginnings"
+msgstr "سرآغاز آشنایی ما"
+
+#: includes/languages/trans_twig.php:19
+msgid "We find each other in Iran national skills competition that knowns as"
+msgstr "ما در مسابقات ملی مهارت با همدیگر آشنا شدیم، مسابقاتی معروف به"
+
+#: includes/languages/trans_twig.php:20
+msgid "Worldskills"
+msgstr "المپیاد جهانی مهارت"
+
+#: includes/languages/trans_twig.php:21
+msgid "Javad Evazzadeh Kakroudi"
+msgstr "جواد عوض‌زاده کاکرودی"
+
+#: includes/languages/trans_twig.php:22
+msgid "Saman Soltani"
+msgstr "سامان سلطانی"
+
+#: includes/languages/trans_twig.php:23
+msgid "Hasan Salehi Hajiabadi"
+msgstr "حسن صالحی حاجی‌آبادی"
+
+#: includes/languages/trans_twig.php:24
+msgid "and"
+msgstr "و"
+
+#: includes/languages/trans_twig.php:25
+msgid "Omid Pilevar"
+msgstr "امید پیله‌ور"
+
+#: includes/languages/trans_twig.php:26
+msgid "2013"
+msgstr "۱۳۹۲"
+
+#: includes/languages/trans_twig.php:27
+msgid "Framework is Born"
+msgstr "تولد فریم‌ورک"
+
+#: includes/languages/trans_twig.php:28
+msgid "Idea of create PHP framework was started"
+msgstr "ایده ساخت فریم‌ورک پی‌اچ‌پی آغاز شد."
+
+#: includes/languages/trans_twig.php:29
+msgid "Hasan selected to create framework basics."
+msgstr "حسن برای ساخت اجزای اولیه فریم‌ورک انتخاب شد."
+
+#: includes/languages/trans_twig.php:30
+msgid "November 2014"
+msgstr "آبان ۱۳۹۳"
+
+#: includes/languages/trans_twig.php:31
+msgid "First Service"
+msgstr "اولین سرویس"
+
+#: includes/languages/trans_twig.php:32
+msgid "First project is launching with this framework"
+msgstr "اولین پروژه با این فریم‌ورک راه‌اندازی شد"
+
+#: includes/languages/trans_twig.php:33
+msgid "September 2015"
+msgstr "شهریور ۱۳۹۴"
+
+#: includes/languages/trans_twig.php:35
+msgid "We can doing hard job!"
+msgstr "ما می‌توانیم!"
+
+#: includes/languages/trans_twig.php:36
+msgid "We can register Ermile trademark:)"
+msgstr "نام تجاری ارمایل توسط ما به ثبت رسید:)"
+
 #: includes/languages/trans_twig.php:37
+msgid "To be <br />continue..."
+msgstr "ادامه دارد..."
+
+#: includes/languages/trans_twig.php:38
 msgid "Location"
 msgstr "مکان"
 
-#: includes/languages/trans_twig.php:38
+#: includes/languages/trans_twig.php:39
 msgid "#83 Moallem St"
 msgstr "خیابان معلم، پلاک ۸۳"
 
-#: includes/languages/trans_twig.php:39
+#: includes/languages/trans_twig.php:40
 msgid "Qom, IRAN"
 msgstr "ایران، قم"
 
-#: includes/languages/trans_twig.php:40
+#: includes/languages/trans_twig.php:41
 msgid "+98 25 3773 5183"
 msgstr "+989357269759"
 
-#: includes/languages/trans_twig.php:41
+#: includes/languages/trans_twig.php:42
 msgid "Another Languages"
 msgstr "سایر زبان‌ها"
 
-#: includes/languages/trans_twig.php:42
+#: includes/languages/trans_twig.php:43
 msgid " is a free to use, open source PHP framework created by"
 msgstr "برای استفاده رایگان است، یک فریم‌ورک پی‌اچ‌پی منبع‌باز ساخته شده توسط"
 
-#: includes/languages/trans_twig.php:43
+#: includes/languages/trans_twig.php:44
 msgid "Copyright"
 msgstr "کپی‌رایت"
 
-#: includes/languages/trans_twig.php:46
+#: includes/languages/trans_twig.php:48
 msgid "Some right reserved!"
 msgstr "برخی از حقوق محفوظ است!"
 
