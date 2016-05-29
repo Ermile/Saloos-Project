@@ -42,8 +42,8 @@ nav.breadcrumb a:hover {color: #656d78;}
 nav.breadcrumb a:last-child {color: #656d78;}
 nav.breadcrumb > a + a:before {content: "<";color: #99a0aa;padding: 0px 8px;float:left;}
 .rtl nav.breadcrumb > a + a:before {content: ">";float:right;}
-#page-nav{display: block;position: relative;width:100%;float:left;padding:10px 5%;transition:0.3s;}
-#page-nav:hover{background-color:rgba(238, 238, 238, 0.4);}
-#page-nav a:hover{color:#000;}
-.rtl #page-nav #nav-next{float:left;display: block }
-.rtl #page-nav #nav-prev{float:right;display: block }
+nav#page-nav{display: block;position: relative;width:100%;float:left;padding:10px 5%;transition:0.3s;font-size: 1.3em}
+nav#page-nav:hover{background-color:rgba(238, 238, 238, 0.4);}
+nav#page-nav a:hover{color:#000;}
+.rtl nav#page-nav #nav-next{float:left;display: block }
+.rtl nav#page-nav #nav-prev{float:right;display: block }
