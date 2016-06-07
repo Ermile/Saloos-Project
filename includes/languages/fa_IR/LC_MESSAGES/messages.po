@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Amon - Persian\n"
-"POT-Creation-Date: 2016-05-29 12:40+0430\n"
-"PO-Revision-Date: 2016-05-29 12:40+0430\n"
+"POT-Creation-Date: 2016-06-07 13:18+0430\n"
+"PO-Revision-Date: 2016-06-07 13:18+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -588,7 +588,7 @@ msgstr "برخی از حقوق محفوظ است!"
 msgid "Powered by"
 msgstr "قدرت گرفته از"
 
-#: includes/languages/trans_addons.php:79 includes/languages/trans_twig.php:51
+#: includes/languages/trans_addons.php:79 includes/languages/trans_twig.php:53
 #: includes/mvc/view.php:10
 msgid "Saloos"
 msgstr "سالوس"
@@ -2217,7 +2217,7 @@ msgstr "در حال حاضر ما فقط به شماره های ایران سر�
 msgid "Thanks for using our service"
 msgstr "متشکریم که از سرویس ما استفاده می‌کنید"
 
-#: includes/languages/trans_addons.php:505 includes/languages/trans_twig.php:52
+#: includes/languages/trans_addons.php:505 includes/languages/trans_twig.php:60
 msgid " "
 msgstr " "
 
@@ -2359,7 +2359,7 @@ msgstr "ایران، قم"
 
 #: includes/languages/trans_twig.php:41
 msgid "+98 25 3773 5183"
-msgstr "+989357269759"
+msgstr "۰۲۵-۳۷۷۳-۵۱۸۳"
 
 #: includes/languages/trans_twig.php:42
 msgid "Another Languages"
@@ -2373,9 +2373,33 @@ msgstr "برای استفاده رایگان است، یک فریم‌ورک پ�
 msgid "Copyright"
 msgstr "کپی‌رایت"
 
-#: includes/languages/trans_twig.php:48
+#: includes/languages/trans_twig.php:50
 msgid "Some right reserved!"
 msgstr "برخی از حقوق محفوظ است!"
+
+#: includes/languages/trans_twig.php:54
+msgid "2014"
+msgstr "۱۳۹۳"
+
+#: includes/languages/trans_twig.php:55
+msgid "2015"
+msgstr "۱۳۹۴"
+
+#: includes/languages/trans_twig.php:56
+msgid "2016"
+msgstr "۱۳۹۵"
+
+#: includes/languages/trans_twig.php:57
+msgid "2017"
+msgstr "۱۳۹۶"
+
+#: includes/languages/trans_twig.php:58
+msgid "2018"
+msgstr "۱۳۹۷"
+
+#: includes/languages/trans_twig.php:59
+msgid "2019"
+msgstr "۱۳۹۸"
 
 #: includes/mvc/view.php:11
 msgid "Free PHP Framework & CMS!"

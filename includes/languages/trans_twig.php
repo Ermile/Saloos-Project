@@ -23,7 +23,7 @@ private function transtext()
 	echo T_("Hasan Salehi Hajiabadi");                                                // Line 93
 	echo T_("and");                                                                   // Line 93
 	echo T_("Omid Pilevar");                                                          // Line 93
-	echo T_("2013");                                                                  // Line 103
+	echo T_("2013");                                                                  // Line 8 Seperate
 	echo T_("Framework is Born");                                                     // Line 104
 	echo T_("Idea of create PHP framework was started");                              // Line 107
 	echo T_("Hasan selected to create framework basics.");                            // Line 107
@@ -41,15 +41,23 @@ private function transtext()
 	echo T_("+98 25 3773 5183");                                                      // Line 177
 	echo T_("Another Languages");                                                     // Line 180
 	echo T_(" is a free to use, open source PHP framework created by");               // Line 189
-	echo T_("Copyright");                                                             // Line 198
+	echo T_("Copyright");                                                             // Line 201
+
+	//--------------------------------------------project\content\home\layout-xhr.html
+	echo T_("View your current location and navigate to parent of it");               // Line 9
 
 	//-------------------------------------------project\content\template\dafault.html
-	echo T_("View your current location and navigate to parent of it");               // Line 8
-	echo T_("Some right reserved!");                                                  // Line 22
+	echo T_("Some right reserved!");                                                  // Line 28
 
 	//------------------------------------project\includes\languages\trans_static.html
 	echo T_("Saloos");                                                                // Line 7 Seperate
-	echo T_(" ");                                                                     // Line 8 Seperate
+	echo T_("2014");                                                                  // Line 9 Seperate
+	echo T_("2015");                                                                  // Line 10 Seperate
+	echo T_("2016");                                                                  // Line 11 Seperate
+	echo T_("2017");                                                                  // Line 12 Seperate
+	echo T_("2018");                                                                  // Line 13 Seperate
+	echo T_("2019");                                                                  // Line 14 Seperate
+	echo T_(" ");                                                                     // Line 15 Seperate
 
 }
 ?>
