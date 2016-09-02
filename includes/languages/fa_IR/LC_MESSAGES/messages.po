@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Saloos - Persian\n"
-"POT-Creation-Date: 2016-09-01 15:28+0430\n"
-"PO-Revision-Date: 2016-09-01 15:28+0430\n"
+"POT-Creation-Date: 2016-09-02 14:19+0430\n"
+"PO-Revision-Date: 2016-09-02 14:21+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -762,8 +762,7 @@ msgstr "خروج از سیستم"
 #: saloos-project/includes/languages/trans_addons.php:76
 #: saloos/saloos-addons/includes/languages/trans_addons.php:76
 msgid "We glad to working for you and hope you enjoy using our system"
-msgstr ""
-"ما از کار برای شما خوشحال بوده و امیدواریم شما نیز از سیستم ما لذت ببرید"
+msgstr "ما از کار برای شما خوشحال بوده و امیدواریم شما نیز از سیستم ما لذت ببرید"
 
 #: saloos-project/includes/languages/trans_addons.php:77
 #: saloos/saloos-addons/includes/languages/trans_addons.php:77
@@ -931,8 +930,8 @@ msgstr "برگشت به"
 #: saloos/saloos-addons/includes/languages/trans_addons.php:108
 msgid "list of current permissions is listed here, for edit click on it"
 msgstr ""
-"لیست سطوح‌دسترسی فعلی در اینجا وجود دارد که با کلیک بر روی هر کدام می‌توانید آن "
-"را ویرایش کنید"
+"لیست سطوح‌دسترسی فعلی در اینجا وجود دارد که با کلیک بر روی هر کدام می‌توانید آن را "
+"ویرایش کنید"
 
 #: saloos-project/includes/languages/trans_addons.php:109
 #: saloos/saloos-addons/includes/languages/trans_addons.php:109
@@ -971,8 +970,7 @@ msgstr "ویرایش دسترسی به"
 
 #: saloos-project/includes/languages/trans_addons.php:118
 #: saloos/saloos-addons/includes/languages/trans_addons.php:118
-msgid ""
-"Allow or disallow user to access all part of service with full permission!"
+msgid "Allow or disallow user to access all part of service with full permission!"
 msgstr "اجازه یا عدم اجازه به کاربر برای دسترسی کامل به تمام بخش‌های سرویس!"
 
 #: saloos-project/includes/languages/trans_addons.php:119
@@ -1051,8 +1049,7 @@ msgstr "عنوان مطلب خود را در اینجا وارد کنید"
 #: saloos/saloos-addons/includes/languages/trans_addons.php:135
 msgid "Url of your content appear here, click on it to view"
 msgstr ""
-"آدرس مطلب شما در این بخش نمایش داده می‌شود که با کلیک می‌توانید آن را مشاهده "
-"کنید"
+"آدرس مطلب شما در این بخش نمایش داده می‌شود که با کلیک می‌توانید آن را مشاهده کنید"
 
 #: saloos-project/includes/languages/trans_addons.php:136
 #: saloos/saloos-addons/includes/languages/trans_addons.php:136
@@ -1077,20 +1074,17 @@ msgstr "چکیده"
 #: saloos-project/includes/languages/trans_addons.php:140
 #: saloos/saloos-addons/includes/languages/trans_addons.php:140
 msgid "If excerpt is empty we get it automatically from content"
-msgstr ""
-"اگر چکیده را خالی بگذارید ما آن را به صورت خودکار از روی نوشته پر میکنیم"
+msgstr "اگر چکیده را خالی بگذارید ما آن را به صورت خودکار از روی نوشته پر میکنیم"
 
 #: saloos-project/includes/languages/trans_addons.php:141
 #: saloos/saloos-addons/includes/languages/trans_addons.php:141
 msgid "Summaries of your content that can be used as page description."
-msgstr ""
-"خلاصه ای از نوشته شما که برای نمایش به عنوان توضیح نوشته استفاده می شود."
+msgstr "خلاصه ای از نوشته شما که برای نمایش به عنوان توضیح نوشته استفاده می شود."
 
 #: saloos-project/includes/languages/trans_addons.php:142
 #: saloos/saloos-addons/includes/languages/trans_addons.php:142
 msgid "Write your tag and press enter to add new keyword to content"
-msgstr ""
-"کلیدواژه‌ی مورد نظر خود را نوشته و با فشردن انتر آن را به مطلب اضافه کنید"
+msgstr "کلیدواژه‌ی مورد نظر خود را نوشته و با فشردن انتر آن را به مطلب اضافه کنید"
 
 #: saloos-project/includes/languages/trans_addons.php:143
 #: saloos/saloos-addons/includes/languages/trans_addons.php:143
@@ -1105,13 +1099,13 @@ msgstr "تگ را وارد کنید"
 #: saloos-project/includes/languages/trans_addons.php:145
 #: saloos/saloos-addons/includes/languages/trans_addons.php:145
 msgid ""
-"Normally, tags are ad-hoc keywords that identify important information in "
-"your post (names, subjects, etc) that may or may not recur in other posts, "
-"while categories are pre-determined sections."
+"Normally, tags are ad-hoc keywords that identify important information in your "
+"post (names, subjects, etc) that may or may not recur in other posts, while "
+"categories are pre-determined sections."
 msgstr ""
-"به طول معمول، کلیدواژه ها عبارات تک کاربره ای برای شناسایی اطلاعات مهم در "
-"نوشته شما مانند نام، موضوع یا .. هستند که امکان تکرار آن ها در سایر نوشته ها "
-"مشخص نیست، این در حالی است که دسته ها از قبل مشخص شده هستند."
+"به طول معمول، کلیدواژه ها عبارات تک کاربره ای برای شناسایی اطلاعات مهم در نوشته "
+"شما مانند نام، موضوع یا .. هستند که امکان تکرار آن ها در سایر نوشته ها مشخص "
+"نیست، این در حالی است که دسته ها از قبل مشخص شده هستند."
 
 #: saloos-project/includes/languages/trans_addons.php:146
 #: saloos/saloos-addons/includes/languages/trans_addons.php:146
@@ -1178,8 +1172,8 @@ msgstr "وضعیت"
 #: saloos-project/includes/languages/trans_addons.php:158
 #: saloos/saloos-addons/includes/languages/trans_addons.php:155
 msgid ""
-"All of content set as draft in default, for showing it to visitors you must "
-"set it to publish"
+"All of content set as draft in default, for showing it to visitors you must set "
+"it to publish"
 msgstr ""
 "تمام مطالب به صورت پیش فرض در حالت پیش نویس قرار می‌گیرند که شما برای انتشار و "
 "نمایش آن به بازدیدکنندگان باید وضعیت آن را به منتشرشده تغییر دهید"
@@ -1270,11 +1264,10 @@ msgstr "تنظیم تصویر شاخص"
 
 #: saloos-project/includes/languages/trans_addons.php:175
 #: saloos/saloos-addons/includes/languages/trans_addons.php:172
-msgid ""
-"You can see type of your file and click on image to direct access to file"
+msgid "You can see type of your file and click on image to direct access to file"
 msgstr ""
-"شما می‌توانید نوع فایل را دیده و با کلیک روی عکس آن، مستقیما به آن دسترسی "
-"داشته باشید"
+"شما می‌توانید نوع فایل را دیده و با کلیک روی عکس آن، مستقیما به آن دسترسی داشته "
+"باشید"
 
 #: saloos-project/includes/languages/trans_addons.php:176
 #: saloos/saloos-addons/includes/languages/trans_addons.php:173
@@ -1326,8 +1319,7 @@ msgid ""
 "You can nest category under other category by making one the “Parent” of the "
 "other."
 msgstr ""
-"شما می‌توانید یک دسته را با کمک ویژگی والد به عنوان زیرشاخه دسته‌ای دیگر ثبت "
-"کنید."
+"شما می‌توانید یک دسته را با کمک ویژگی والد به عنوان زیرشاخه دسته‌ای دیگر ثبت کنید."
 
 #: saloos-project/includes/languages/trans_addons.php:193
 #: saloos/saloos-addons/includes/languages/trans_addons.php:190
@@ -1459,13 +1451,13 @@ msgstr "تفاوت بین نوشته و برگه در چیست؟"
 #: saloos-project/includes/languages/trans_addons.php:223
 #: saloos/saloos-addons/includes/languages/trans_addons.php:219
 msgid ""
-"Pages are similar to Posts in that they have a title, body text, and "
-"associated metadata, but they are different in that they are not part of the "
-"chronological blog stream, kind of like permanent posts."
+"Pages are similar to Posts in that they have a title, body text, and associated "
+"metadata, but they are different in that they are not part of the chronological "
+"blog stream, kind of like permanent posts."
 msgstr ""
-"برگه ها در عنوان، متن و سایر ویژگی ها شبیه به نوشته ها هستند، اما تفاوت اصلی "
-"آن ها در این است که به مانند نوشته ها دارای جریان زمانی دنباله دار نیستند، در "
-"حقیقت شبیه به یک پست دائمی هستند."
+"برگه ها در عنوان، متن و سایر ویژگی ها شبیه به نوشته ها هستند، اما تفاوت اصلی آن "
+"ها در این است که به مانند نوشته ها دارای جریان زمانی دنباله دار نیستند، در حقیقت "
+"شبیه به یک پست دائمی هستند."
 
 #: saloos-project/includes/languages/trans_addons.php:224
 #: saloos/saloos-addons/includes/languages/trans_addons.php:220
@@ -1771,19 +1763,19 @@ msgstr "پترابایت"
 
 #: saloos-project/includes/languages/trans_addons.php:283
 #: saloos/saloos-addons/includes/languages/trans_addons.php:279
-#: saloos/saloos-addons/lib/mvc/models/cp.php:207
+#: saloos/saloos-addons/lib/mvc/models/cp.php:219
 msgid "id does not exist!"
 msgstr "این کد در سیستم وجود ندارد!"
 
 #: saloos-project/includes/languages/trans_addons.php:284
 #: saloos/saloos-addons/includes/languages/trans_addons.php:280
-#: saloos/saloos-addons/lib/mvc/models/cp.php:130
+#: saloos/saloos-addons/lib/mvc/models/cp.php:142
 msgid "all require fields must fill"
 msgstr "تمام رکوردهای الزامی باید پر شوند"
 
 #: saloos-project/includes/languages/trans_addons.php:285
 #: saloos/saloos-addons/includes/languages/trans_addons.php:281
-#: saloos/saloos-addons/lib/mvc/models/cp.php:136
+#: saloos/saloos-addons/lib/mvc/models/cp.php:148
 msgid "some fields must be change for update!"
 msgstr "برای بروزرسانی باید حداقل یک فیلد را تغییر دهید!"
 
@@ -1870,7 +1862,7 @@ msgstr "خانه"
 
 #: saloos-project/includes/languages/trans_addons.php:301
 #: saloos-project/includes/languages/trans_twig.php:6
-#: saloos/lib/view/twigAddons.php:186
+#: saloos/lib/view/twigAddons.php:208
 #: saloos/saloos-addons/includes/languages/trans_addons.php:297
 msgid "Home"
 msgstr "صفحه نخست"
@@ -2023,8 +2015,7 @@ msgstr "از دسته ها برای تعریف بخش های سایت و دست�
 #: saloos/saloos-addons/content_cp/manifest.php:61
 #: saloos/saloos-addons/includes/languages/trans_addons.php:324
 msgid "Use categories to define sections of your site and group related files"
-msgstr ""
-"از دسته‌بندی برای تعریف بخش‌های مختلف برای گروه‌بندی کردن فایل‌ها استفاده کنید"
+msgstr "از دسته‌بندی برای تعریف بخش‌های مختلف برای گروه‌بندی کردن فایل‌ها استفاده کنید"
 
 #: saloos-project/includes/languages/trans_addons.php:329
 #: saloos/saloos-addons/content_cp/manifest.php:8
@@ -2054,8 +2045,8 @@ msgstr "صفحه"
 #: saloos/saloos-addons/includes/languages/trans_addons.php:329
 msgid "If you want to change password enter it, else leave it blank"
 msgstr ""
-"در صورت تمایل به تغییر گذرواژه آن را وارد کنید،‌ در غیر این ‌صورت این فیلد را "
-"خالی بگذارید"
+"در صورت تمایل به تغییر گذرواژه آن را وارد کنید،‌ در غیر این ‌صورت این فیلد را خالی "
+"بگذارید"
 
 #: saloos-project/includes/languages/trans_addons.php:334
 #: saloos/saloos-addons/content_cp/home/view.php:325
@@ -2443,8 +2434,8 @@ msgstr "سایت"
 #: saloos/saloos-addons/includes/languages/trans_addons.php:403
 msgid "For multilanguage sites enter title in English and translate it"
 msgstr ""
-"برای سایت‌های چندزبانه، این بخش را به انگلیسی وارد نموده و توسط برنامه مترجم "
-"آن را به سایر زبان‌ها ترجمه کنید"
+"برای سایت‌های چندزبانه، این بخش را به انگلیسی وارد نموده و توسط برنامه مترجم آن "
+"را به سایر زبان‌ها ترجمه کنید"
 
 #: saloos-project/includes/languages/trans_addons.php:408
 #: saloos/saloos-addons/includes/languages/trans_addons.php:404
@@ -2981,8 +2972,7 @@ msgstr "شما می‌توانید این سطح‌دسترسی را ویرای�
 #: saloos-project/includes/languages/trans_addons.php:496
 #: saloos/saloos-addons/content_cp/permissions/view.php:9
 #: saloos/saloos-addons/includes/languages/trans_addons.php:492
-msgid ""
-"Define or edit user permissions to allow or block access to special pages"
+msgid "Define or edit user permissions to allow or block access to special pages"
 msgstr "تعریف یا ویرایش سطوح‌دسترسی برای اجازه یا ممنوع کردن دسترسی به صفحات خاص"
 
 #: saloos-project/includes/languages/trans_addons.php:497
@@ -3164,8 +3154,8 @@ msgid "Location"
 msgstr "مکان"
 
 #: saloos-project/includes/languages/trans_twig.php:39
-msgid "#83 Moallem St"
-msgstr "خیابان معلم، پلاک ۸۳"
+msgid "#614, Omranieh, Moallem St"
+msgstr "خیابان معلم، مجتمع عمرانیه، واحد ۶۱۴"
 
 #: saloos-project/includes/languages/trans_twig.php:40
 msgid "Qom, IRAN"
@@ -3219,8 +3209,7 @@ msgstr "۱۳۹۸"
 msgid "Free PHP Framework & CMS!"
 msgstr "فریم‌ورک و سیستم مدیریت محتوای رایگان با پی‌اچ‌پی"
 
-#: saloos-project/includes/mvc/view.php:12
-#: saloos-project/includes/mvc/view.php:14
+#: saloos-project/includes/mvc/view.php:12 saloos-project/includes/mvc/view.php:14
 msgid "Saloos is a cirsium vulgare for php programmers! :)"
 msgstr "سالوس یک کنگر برای برنامه‌نویسان پی‌اچ‌پی است! :)"
 
@@ -3339,7 +3328,7 @@ msgstr "شما ابتدا باید وارد سیستم شوید!"
 msgid "Not found!"
 msgstr "یافت نشد"
 
-#: saloos/saloos-addons/content_cp/home/view.php:335
+#: saloos/saloos-addons/content_cp/home/view.php:331
 msgid "position"
 msgstr "موقعیت"
 
@@ -3571,8 +3560,7 @@ msgid "We need your phone number to verifying your account."
 msgstr "ما برای اعتبارسنجی اکانت، نیاز به شماره موبایل شما داریم."
 
 #: saloos/saloos-addons/lib/telegram/commands/step_register.php:116
-msgid ""
-"If you dont want share your number, we cant presenting our services to you!"
+msgid "If you dont want share your number, we cant presenting our services to you!"
 msgstr ""
 "اگر شما مایل به ارائه شماره خود نباشید، ما امکان سرویس‌دهی به شما را نداریم!"
 
@@ -3603,1147 +3591,3 @@ msgstr "ما به مخاطب سایر کاربران نیاز نداریم:؟)"
 #: saloos/saloos-addons/lib/telegram/log.php:377
 msgid "We need mobile number!"
 msgstr "ما به شماره موبایل نیاز داریم!"
-
-#~ msgid "Idea of creating PHP framework is started"
-#~ msgstr "ایده ساخت فریم‌ورک پی‌اچ‌پی آغاز شد."
-
-#~ msgid "Hasan is selected to creating framework basics"
-#~ msgstr "حسن برای ساخت اجزای اولیه فریم‌ورک انتخاب شد"
-
-#~ msgid "Features"
-#~ msgstr "امکانات"
-
-#~ msgid "Services"
-#~ msgstr "سرویس‌ها"
-
-#~ msgid "Ermile is new"
-#~ msgstr "ارمایل جدید است!"
-
-#~ msgid "Ermile is our company"
-#~ msgstr "ارمایل شرکت ماست"
-
-#~ msgid "Ermile is Inteligent."
-#~ msgstr "ارمایل باهوش است!"
-
-#~ msgid "Redirect to main address"
-#~ msgstr "انتقال کاربران به دامنه اصلی"
-
-#~ msgid "Debug mode status"
-#~ msgstr "وضعیت نمایش خطا"
-
-#~ msgid "Default"
-#~ msgstr "پیش‌فرض"
-
-#~ msgid "to"
-#~ msgstr "به"
-
-#~ msgid "made in iran"
-#~ msgstr "ساخت ایران"
-
-#~ msgid "Now we only support Iran!"
-#~ msgstr "در حال حاضر ما فقط به شماره های ایران سرویس می دهیم!"
-
-#~ msgid "we send a verification code to this number"
-#~ msgstr "کد اعتبارسنجی به این شماره ارسال خواهد شد"
-
-#~ msgid "you account is verified successfully"
-#~ msgstr "اعتبارسنجی اکانت شما با موفقیت به انجام رسید"
-
-#~ msgid "your verification code is"
-#~ msgstr "کد اعتبارسنجی شما"
-
-#~ msgid "your password is changed successfully"
-#~ msgstr "گذرواژه شما با موفقیت تغییر یافت"
-
-#~ msgid "thanks for using our service"
-#~ msgstr "متشکریم که از سرویس ما استفاده می کنید"
-
-#~ msgid "Site main URL"
-#~ msgstr "آدرس اصلی سایت"
-
-#~ msgid "Site main Address (URL)"
-#~ msgstr "آدرس اصلی سایت"
-
-#~ msgid "insert successfully"
-#~ msgstr "رکورد با موفقیت ثبت شد"
-
-#~ msgid "insert failed!"
-#~ msgstr "فراید ثبت ناموفق بود!"
-
-#~ msgid "update successfully"
-#~ msgstr "بروزرسانی با موفقیت انجام شد"
-
-#~ msgid "update failed!"
-#~ msgstr "بروزرسانی ناموفق بود!"
-
-#~ msgid "delete successfully"
-#~ msgstr "حذف با موفقیت انجام شد."
-
-#~ msgid "delete failed!"
-#~ msgstr "عملیات حذف ناموفق بود!"
-
-#~ msgid "Report"
-#~ msgstr "گزارش"
-
-#~ msgid "Utilities"
-#~ msgstr "ابزارها"
-
-#~ msgid "Go to your profile or logout from conrtol panel"
-#~ msgstr ""
-#~ "از این قسمت به پروفایل خود رفته و یا از کنترل پنل خروج امن داشته باشید"
-
-#~ msgid "All right reserved"
-#~ msgstr "تمام حقوق محفوظ است"
-
-#~ msgid "Extract twig trans func in saloos addon"
-#~ msgstr "بیرون کشیدن متن های قابل ترجمه توئیگ از افزونه‌های سالوس"
-
-#~ msgid "Fax"
-#~ msgstr "فکس"
-
-#~ msgid "Contact Us"
-#~ msgstr "تماس با ما"
-
-#~ msgid "Close"
-#~ msgstr "بستن"
-
-#~ msgid "Postal Code"
-#~ msgstr "کد پستی"
-
-#~ msgid "Alley No8, Shahid Montazeri St."
-#~ msgstr "میدان مصلّی، بلوار شهید محمّد منتظری، كوچه شماره ٨"
-
-#~ msgid "Montazeri"
-#~ msgstr "منتظری"
-
-#~ msgid "Saeed Montazeri"
-#~ msgstr "سعید منتظری"
-
-#~ msgid "Saeede Montazeri"
-#~ msgstr "سعیده منتظری"
-
-#~ msgid "extra"
-#~ msgstr "اضافی"
-
-#~ msgid "postmetas"
-#~ msgstr "توضیح اضافی نوشته ها"
-
-#~ msgid "postmeta"
-#~ msgstr "توضیح اضافی نوشته"
-
-#~ msgid "verifications"
-#~ msgstr "اعتبارسنجی ها"
-
-#~ msgid "emailsignup"
-#~ msgstr "ثبت نام با رایانامه"
-
-#~ msgid "emailchangepass"
-#~ msgstr "تغییر کلمه عبور با رایانامه"
-
-#~ msgid "emailrecovery"
-#~ msgstr "بازیابی با رایانامه"
-
-#~ msgid "mobilesignup"
-#~ msgstr "ثبت نام با موبایل"
-
-#~ msgid "mobilechangepass"
-#~ msgstr "تغییر کلمه عبور با موبایل"
-
-#~ msgid "mobilerecovery"
-#~ msgstr "بازیابی با موبایل"
-
-#~ msgid "code"
-#~ msgstr "کد"
-
-#~ msgid "verified"
-#~ msgstr "اعتبارسنجی شده"
-
-#~ msgid "Page Not Found"
-#~ msgstr "صفحه یافت نشد"
-
-#~ msgid "Not Found!"
-#~ msgstr "یافت نشد!"
-
-#~ msgid "Your browser does not support the audio element."
-#~ msgstr "مرورگر شما از صدا پشتیبانی نمی‌کند."
-
-#~ msgid "Your browser does not support the video tag."
-#~ msgstr "مرورگر شما از ویدیو پشتیبانی نمی‌کند."
-
-#~ msgid "Download PDF"
-#~ msgstr "دانلود پی‌دی‌اف"
-
-#~ msgid "Download"
-#~ msgstr "دانلود"
-
-#~ msgid "Address"
-#~ msgstr "آدرس"
-
-#~ msgid "Montazeri Office Location on Map"
-#~ msgstr "آدرس دفتر آیت الله منتظری در نقشه"
-
-#~ msgid ""
-#~ "those who convey the messages of Allah and fear Him and do not fear anyone "
-#~ "but Allah"
-#~ msgstr ""
-#~ "کسانی که پیام‏های الهی را ابلاغ می‏کنند و از خدا می‏ترسند، و از هیچ کس جز خدا "
-#~ "بیم ندارند"
-
-#~ msgid "Memoirs"
-#~ msgstr "خاطرات"
-
-#~ msgid "Compilations"
-#~ msgstr "تألیفات"
-
-#~ msgid "Pictures"
-#~ msgstr "تصاویر"
-
-#~ msgid "Buy works"
-#~ msgstr "خرید آثار"
-
-#~ msgid "Hussein-Ali Montazeri"
-#~ msgstr "حسین علی منتظری"
-
-#~ msgid "Search..."
-#~ msgstr "جستجو..."
-
-#~ msgid "Go"
-#~ msgstr "برو"
-
-#~ msgid "Shahid Mohammad Montazeri"
-#~ msgstr "شهید محمد منتظری"
-
-#~ msgid "Ayatollah Montazeri"
-#~ msgstr "آیت‌الله منتظری"
-
-#~ msgid "The official website of the G.A. Montazeri"
-#~ msgstr "وب سایت رسمی آیت‌الله العظمی منتظری"
-
-#~ msgid ""
-#~ "He was a Marja, prominent Iranian scholar and Shia Islamic democracy "
-#~ "advocate"
-#~ msgstr "فقیه، حکیم و مجاهد نستوه عالم اسلام و تشیع"
-
-#~ msgid "Grand Ayatollah Montazeri Official Website"
-#~ msgstr "وب سایت رسمی آیت‌الله منتظری"
-
-#~ msgid "Add New Post"
-#~ msgstr "افزودن یک نوشته جدید"
-
-#~ msgid "Add New Attachment"
-#~ msgstr "افزودن فایل جدید"
-
-#~ msgid "Quick Access"
-#~ msgstr "دسترسی سریع"
-
-#~ msgid "Total"
-#~ msgstr "مجموع"
-
-#~ msgid "Humans"
-#~ msgstr "انسان‌ها"
-
-#~ msgid "Published Books"
-#~ msgstr "کتابهای منتشر شده"
-
-#~ msgid "Biography"
-#~ msgstr "زندگی‌نامه"
-
-#~ msgid "Lasting Effects"
-#~ msgstr "آثار ماندگار"
-
-#~ msgid "Declaration of Office"
-#~ msgstr "بیانیه‌های دفتر"
-
-#~ msgid "In Words of Others"
-#~ msgstr "کلام دیگران"
-
-#~ msgid "Replies"
-#~ msgstr "پاسخ‌ها"
-
-#~ msgid "Top News"
-#~ msgstr "برترین اخبار"
-
-#~ msgid "Most popular"
-#~ msgstr "پرطرفدارترین"
-
-#~ msgid "Add New"
-#~ msgstr "افزودن"
-
-#~ msgid "Category"
-#~ msgstr "دسته‌بندی"
-
-#~ msgid "excerpt"
-#~ msgstr "چکیده"
-
-#~ msgid "Bookcategory"
-#~ msgstr "دسته‌بندی کتاب"
-
-#~ msgid "reference"
-#~ msgstr "رفرنس"
-
-#~ msgid "Use reference to define important parts to use in posts"
-#~ msgstr ""
-#~ "از رفرنس برای تعریف بخش‌های مهم و استفاده و ارجاع دهی از آن در مطالبتان "
-#~ "استفاده کنید"
-
-#~ msgid "References"
-#~ msgstr "رفرنس‌ها"
-
-#~ msgid "Click to check result in new tab"
-#~ msgstr "برای نمایش نتیجه در تب جدید کلیک کنید"
-
-#~ msgid "Enjoy using our system"
-#~ msgstr "با استفاده از سیستم ما لذت ببرید"
-
-#~ msgid "Daily Visit"
-#~ msgstr "بازدید روزانه"
-
-#~ msgid "The Official Website for The G.A. Montazeri"
-#~ msgstr "وب سایت رسمی آیت الله منتظری"
-
-#~ msgid "Dimensions"
-#~ msgstr "ابعاد"
-
-#~ msgid "product"
-#~ msgstr "محصول"
-
-#~ msgid "errorlogs"
-#~ msgstr "لاگ خطاها"
-
-#~ msgid "errorlog"
-#~ msgstr "لاگ خطا"
-
-#~ msgid "errors"
-#~ msgstr "خطاها"
-
-#~ msgid "error"
-#~ msgstr "خطا"
-
-#~ msgid "solution"
-#~ msgstr "راهکار"
-
-#~ msgid "object"
-#~ msgstr "آبجکت"
-
-#~ msgid "add"
-#~ msgstr "افزودن"
-
-#~ msgid "userlogs"
-#~ msgstr "وقایع کاربران"
-
-#~ msgid "userlog"
-#~ msgstr "وقایع کاربر"
-
-#~ msgid "forgetpassword"
-#~ msgstr "فراموش کردن کلمه عبور"
-
-#~ msgid "usermetas"
-#~ msgstr "اطلاعات اضافی کاربران"
-
-#~ msgid "usermeta"
-#~ msgstr "اطلاعات اضافی کاربر"
-
-#~ msgid ""
-#~ "He was a Muslim cleric, prominent Iranian scholar and Shia Islamic "
-#~ "democracy advocate"
-#~ msgstr "او روحانی مسلمان، مرجع تقلید ایرانیان و "
-
-#~ msgid "this"
-#~ msgstr "این"
-
-#~ msgid "View Post"
-#~ msgstr "نمایش نوشته"
-
-#~ msgid "Drag & Drop Here"
-#~ msgstr "بکشید و در اینجا رها کنید"
-
-#~ msgid "Extract twig trans in project"
-#~ msgstr "بیرون کشیدن متن های قابل ترجمه توئیگ از پروژه جاری"
-
-#~ msgid "Input tag and press Enter"
-#~ msgstr "تگ را وارد کرده و انتر را بفشارید"
-
-#~ msgid "Visits"
-#~ msgstr "بازدید"
-
-#~ msgid "Daily Visits"
-#~ msgstr "بازدید روزانه"
-
-#~ msgid "You can assign keywords to your posts using tags"
-#~ msgstr "شما می توانید کلمات کلیدی را به نوشته های خود ارتباط دهید"
-
-#~ msgid ""
-#~ "You can use categories to define sections of your site and group related "
-#~ "posts"
-#~ msgstr ""
-#~ "شما می توانید از دسته ها برای تعریف بخش های سایت و دسته بندی نوشته ها "
-#~ "استفاده کنید"
-
-#~ msgid "You can use posts to share your news in specefic category"
-#~ msgstr ""
-#~ "شما می توانید از نوشته ها برای انتشار اخبار در موضوعات دلخواه استفاده کنید"
-
-#~ msgid "You can use pages to share your static content"
-#~ msgstr "شما می توانید از برگه ها برای انتشار مطالب ثابت استفاده کنید"
-
-#~ msgid "Create a new static page"
-#~ msgstr "ساخت یک برگه ثابت جدید"
-
-#~ msgid "Edit this record"
-#~ msgstr "ویرایش رکورد"
-
-#~ msgid "Delete this record"
-#~ msgstr "حذف رکورد"
-
-#~ msgid "login successfully"
-#~ msgstr "ورود موفقیت آمیز"
-
-#~ msgid "login failed!"
-#~ msgstr "ثبت نام ناموفق!"
-
-#~ msgid "mobile or password is incorrect"
-#~ msgstr "شماره موبایل یا کلمه عبور اشتباه است"
-
-#~ msgid "mobile number exist!"
-#~ msgstr "این شماره موبایل قبلا در سیستم ثبت شده است!"
-
-#~ msgid "register successfully"
-#~ msgstr "ثبت نام با موفقیت انجام شد"
-
-#~ msgid "register failed!"
-#~ msgstr "ثبت نام ناموفق بود!"
-
-#~ msgid "Id"
-#~ msgstr "کد"
-
-#~ msgid "Post"
-#~ msgstr "پست"
-
-#~ msgid "Product"
-#~ msgstr "محصول"
-
-#~ msgid "User"
-#~ msgstr "کاربر"
-
-#~ msgid "Visitor"
-#~ msgstr "بازدیدکننده"
-
-#~ msgid "Errorlogs"
-#~ msgstr "لاگ خطاها"
-
-#~ msgid "Errorlog"
-#~ msgstr "لاگ خطا"
-
-#~ msgid "Errors"
-#~ msgstr "خطاها"
-
-#~ msgid "Notifications"
-#~ msgstr "آگاه سازی ها"
-
-#~ msgid "Extra"
-#~ msgstr "اضافی"
-
-#~ msgid "Postmetas"
-#~ msgstr "توضیح اضافی نوشته ها"
-
-#~ msgid "Type"
-#~ msgstr "نوع"
-
-#~ msgid "Comment"
-#~ msgstr "دیدگاه"
-
-#~ msgid "Count"
-#~ msgstr "تعداد"
-
-#~ msgid "Publishdate"
-#~ msgstr "زمان انتشار"
-
-#~ msgid "Desc"
-#~ msgstr "توضیح"
-
-#~ msgid "Termusages"
-#~ msgstr "موارد استفاده عبارات"
-
-#~ msgid "Term"
-#~ msgstr "عبارت"
-
-#~ msgid "Object"
-#~ msgstr "آبجکت"
-
-#~ msgid "Order"
-#~ msgstr "ترتیب"
-
-#~ msgid "Userlogs"
-#~ msgstr "وقایع کاربران"
-
-#~ msgid "Usermetas"
-#~ msgstr "اطلاعات اضافی کاربران"
-
-#~ msgid "Pass"
-#~ msgstr "کلمه عبور"
-
-#~ msgid "Displayname"
-#~ msgstr "نام برای نمایش عمومی"
-
-#~ msgid "Permission"
-#~ msgstr "سطح دسترسی"
-
-#~ msgid "Createdate"
-#~ msgstr "تاریخ ایجاد"
-
-#~ msgid "Verifications"
-#~ msgstr "اعتبارسنجی ها"
-
-#~ msgid "Verified"
-#~ msgstr "تایید شده"
-
-#~ msgid "Ip"
-#~ msgstr "آی پی"
-
-#~ msgid "Agent"
-#~ msgstr "ایجنت"
-
-#~ msgid "Referer"
-#~ msgstr "ارجاع"
-
-#~ msgid "Robot"
-#~ msgstr "ربات"
-
-#~ msgid "Error!"
-#~ msgstr "خطا!"
-
-#~ msgid "register sms successfully"
-#~ msgstr "ثبت پیامک با موفقیت انجام شد"
-
-#~ msgid "register sms failed!"
-#~ msgstr "ثبت پیامک ناموفق بود!"
-
-#~ msgid "accounts"
-#~ msgstr "اکانت ها"
-
-#~ msgid "bank"
-#~ msgstr "بانک"
-
-#~ msgid "branch"
-#~ msgstr "شعبه"
-
-#~ msgid "number"
-#~ msgstr "شماره"
-
-#~ msgid "card"
-#~ msgstr "کارت"
-
-#~ msgid "primarybalance"
-#~ msgstr "موجودی اولیه"
-
-#~ msgid "income"
-#~ msgstr "ورودی"
-
-#~ msgid "outcome"
-#~ msgstr "خروجی"
-
-#~ msgid "costcats"
-#~ msgstr "دسته بندی هزینه ها"
-
-#~ msgid "costcat"
-#~ msgstr "دسته بندی هزینه"
-
-#~ msgid "costs"
-#~ msgstr "هزینه ها"
-
-#~ msgid "cost"
-#~ msgstr "هزینه"
-
-#~ msgid "price"
-#~ msgstr "قیمت"
-
-#~ msgid "date"
-#~ msgstr "تاریخ"
-
-#~ msgid "paper"
-#~ msgstr "سند"
-
-#~ msgid "start"
-#~ msgstr "شروع"
-
-#~ msgid "inprogress"
-#~ msgstr "در حال انجام"
-
-#~ msgid "appended"
-#~ msgstr "اضافه شده"
-
-#~ msgid "failed"
-#~ msgstr "از دست رفته"
-
-#~ msgid "finished"
-#~ msgstr "پایان یافته"
-
-#~ msgid "fileparts"
-#~ msgstr "بخش های فایل ها"
-
-#~ msgid "filepart"
-#~ msgstr "بخش های فایل"
-
-#~ msgid "file"
-#~ msgstr "فایل"
-
-#~ msgid "part"
-#~ msgstr "بخش"
-
-#~ msgid "ready"
-#~ msgstr "آماده"
-
-#~ msgid "temp"
-#~ msgstr "موقتی"
-
-#~ msgid "server"
-#~ msgstr "سرور"
-
-#~ msgid "folder"
-#~ msgstr "پوشه"
-
-#~ msgid "size"
-#~ msgstr "سایز"
-
-#~ msgid "idsender"
-#~ msgstr "کد ارسال کننده"
-
-#~ msgid "fail"
-#~ msgstr "از دست رفته"
-
-#~ msgid "lost"
-#~ msgstr "گم شده"
-
-#~ msgid "block"
-#~ msgstr "مسدود شده"
-
-#~ msgid "papers"
-#~ msgstr "اسناد"
-
-#~ msgid "holder"
-#~ msgstr "به نام"
-
-#~ msgid "productmetas"
-#~ msgstr "اطلاعات اضافی کالاها"
-
-#~ msgid "productmeta"
-#~ msgstr "اطلاعات اضافی کالا"
-
-#~ msgid "productprices"
-#~ msgstr "قیمت کالاها"
-
-#~ msgid "productprice"
-#~ msgstr "قیمت کالا"
-
-#~ msgid "startdate"
-#~ msgstr "تاریخ شروع"
-
-#~ msgid "enddate"
-#~ msgstr "تاریخ پایان"
-
-#~ msgid "buyprice"
-#~ msgstr "قیمت خرید"
-
-#~ msgid "discount"
-#~ msgstr "تخفیف"
-
-#~ msgid "vat"
-#~ msgstr "مالیات"
-
-#~ msgid "unset"
-#~ msgstr "حذف شده"
-
-#~ msgid "available"
-#~ msgstr "در دسترس"
-
-#~ msgid "soon"
-#~ msgstr "به زودی"
-
-#~ msgid "discontinued"
-#~ msgstr "توقف تولید"
-
-#~ msgid "unavailable"
-#~ msgstr "ناموجود"
-
-#~ msgid "store"
-#~ msgstr "فروشگاه"
-
-#~ msgid "online"
-#~ msgstr "آنلاین"
-
-#~ msgid "both"
-#~ msgstr "هر دو"
-
-#~ msgid "barcode"
-#~ msgstr "بارکد"
-
-#~ msgid "barcode2"
-#~ msgstr "بارکد دوم"
-
-#~ msgid "initialbalance"
-#~ msgstr "موجودی اولیه"
-
-#~ msgid "mininventory"
-#~ msgstr "حداقل موجودی"
-
-#~ msgid "sold"
-#~ msgstr "فروخته شده"
-
-#~ msgid "stock"
-#~ msgstr "موجودی انبار"
-
-#~ msgid "carton"
-#~ msgstr "تعداد در کارتن"
-
-#~ msgid "sellin"
-#~ msgstr "فروش در"
-
-#~ msgid "receipts"
-#~ msgstr "رسیدها"
-
-#~ msgid "receipt"
-#~ msgstr "رسید"
-
-#~ msgid "paperdate"
-#~ msgstr "تاریخ سند"
-
-#~ msgid "paperstatus"
-#~ msgstr "وضعیت سند"
-
-#~ msgid "transaction"
-#~ msgstr "تراکنش"
-
-#~ msgid "fund"
-#~ msgstr "صندوق"
-
-#~ msgid "idcustomer"
-#~ msgstr "کد مشتری"
-
-#~ msgid "get"
-#~ msgstr "گرفتن"
-
-#~ msgid "receive"
-#~ msgstr "دریافت"
-
-#~ msgid "delivery"
-#~ msgstr "تحویل"
-
-#~ msgid "smss"
-#~ msgstr "پیامک ها"
-
-#~ msgid "sms"
-#~ msgstr "پیامک"
-
-#~ msgid "from"
-#~ msgstr "از"
-
-#~ msgid "message"
-#~ msgstr "پیغام"
-
-#~ msgid "messageid"
-#~ msgstr "کد پیغام"
-
-#~ msgid "deliverystatus"
-#~ msgstr "وضعیت دریافت"
-
-#~ msgid "method"
-#~ msgstr "روش"
-
-#~ msgid "transactiondetails"
-#~ msgstr "جزییات تراکنش ها"
-
-#~ msgid "transactiondetail"
-#~ msgstr "جزییات تراکنش"
-
-#~ msgid "row"
-#~ msgstr "سطر"
-
-#~ msgid "quantity"
-#~ msgstr "تعداد"
-
-#~ msgid "transactionmetas"
-#~ msgstr "اطلاعات اضافی تراکنش ها"
-
-#~ msgid "transactionmeta"
-#~ msgstr "اطلاعات اضافی تراکنش"
-
-#~ msgid "sale"
-#~ msgstr "فروش"
-
-#~ msgid "purchase"
-#~ msgstr "خرید"
-
-#~ msgid "customertostore"
-#~ msgstr "از مشتری به فروشگاه"
-
-#~ msgid "storetocompany"
-#~ msgstr "از فروشگاه به شرکت"
-
-#~ msgid "anbargardani"
-#~ msgstr "انبارگردانی"
-
-#~ msgid "install"
-#~ msgstr "نصب"
-
-#~ msgid "repair"
-#~ msgstr "تعمیر"
-
-#~ msgid "chqeuebackfail"
-#~ msgstr "چک سوخته"
-
-#~ msgid "transactions"
-#~ msgstr "تراکنش ها"
-
-#~ msgid "sum"
-#~ msgstr "جمع"
-
-#~ msgid "remained"
-#~ msgstr "باقی مانده"
-
-#~ msgid "Send Delivery"
-#~ msgstr "رسید پیامک"
-
-#~ msgid "logout form all service"
-#~ msgstr "خروج از همه حساب ها"
-
-#~ msgid "login to all service"
-#~ msgstr "ورود به سرویس ها"
-
-#~ msgid "One account for all service"
-#~ msgstr "یک اکانت برای همه سرویس ها"
-
-#~ msgid "now only"
-#~ msgstr "در حالا حاضر تنها"
-
-#~ msgid "secure online storage"
-#~ msgstr "فضایی مطمئن برای ذخیره سازی آنلاین"
-
-#~ msgid "Talambar"
-#~ msgstr "تلمبار"
-
-#~ msgid "is ready to use at alfa version."
-#~ msgstr "آماده استفاده در نسخه آلفا است"
-
-#~ msgid "our new service is comming soon."
-#~ msgstr "سرویس های جدید ما به زودی رونمایی می شوند"
-
-#~ msgid "Ermile is our brand"
-#~ msgstr "ارمایل نام برند ماست"
-
-#~ msgid "Experience our service in your language"
-#~ msgstr "سرویس های ما را با زبان اصلی خودتان تجربه کنید"
-
-#~ msgid "terms of service"
-#~ msgstr "قوانین استفاده"
-
-#~ msgid "by signing up, you agree to the"
-#~ msgstr "با ثبت نام شما موافق هستید با"
-
-#~ msgid "receive message callback!"
-#~ msgstr "دریافت پیامک"
-
-#~ msgid "Ermile contain a new tools for each one"
-#~ msgstr "ارمایل دارای ابزارهایی برای خود شماست"
-
-#~ msgid "One account to access all service"
-#~ msgstr "یک اکانت برای دسترسی به همه سرویس ها"
-
-#~ msgid "goingtoexpire"
-#~ msgstr "در حال منقضی شدن"
-
-#~ msgid "addons"
-#~ msgstr "افزونه ها"
-
-#~ msgid "addon"
-#~ msgstr "افزونه"
-
-#~ msgid "name"
-#~ msgstr "نام"
-
-#~ msgid "installdate"
-#~ msgstr "تاریخ نصب"
-
-#~ msgid "attachmentmetas"
-#~ msgstr "اطلاعات اضافی ضمیمه ها"
-
-#~ msgid "attachmentmeta"
-#~ msgstr "اطلاعات اضافی ضمیمه"
-
-#~ msgid "productcategory"
-#~ msgstr "دسته کالا"
-
-#~ msgid "banklogo"
-#~ msgstr "لوگوی بانک"
-
-#~ msgid "system"
-#~ msgstr "سیستم"
-
-#~ msgid "other"
-#~ msgstr "سایر"
-
-#~ msgid "normal"
-#~ msgstr "عادی"
-
-#~ msgid "trash"
-#~ msgstr "زباله دان"
-
-#~ msgid "addr"
-#~ msgstr "آدرس"
-
-#~ msgid "ext"
-#~ msgstr "پسوند"
-
-#~ msgid "depth"
-#~ msgstr "عمق"
-
-#~ msgid "banks"
-#~ msgstr "بانک ها"
-
-#~ msgid "website"
-#~ msgstr "وب سایت"
-
-#~ msgid "funds"
-#~ msgstr "صندوق ها"
-
-#~ msgid "location"
-#~ msgstr "مکان"
-
-#~ msgid "locations"
-#~ msgstr "مکان ها"
-
-#~ msgid "module"
-#~ msgstr "ماژول"
-
-#~ msgid "view"
-#~ msgstr "نمایش"
-
-#~ msgid "productcats"
-#~ msgstr "دسته کالاها"
-
-#~ msgid "productcat"
-#~ msgstr "دسته کالا"
-
-#~ msgid "user customer"
-#~ msgstr "مشتری فروشگاه"
-
-#~ msgid "storeadmin"
-#~ msgstr "مدیر فروشگاه"
-
-#~ msgid "storeemployee"
-#~ msgstr "کارمند فروشگاه"
-
-#~ msgid "storesupplier"
-#~ msgstr "تامین کننده فروشگاه"
-
-#~ msgid "storecustomer"
-#~ msgstr "مشتری فروشگاه"
-
-#~ msgid "male"
-#~ msgstr "مذکر"
-
-#~ msgid "female"
-#~ msgstr "مونث"
-
-#~ msgid "gender"
-#~ msgstr "جنسیت"
-
-#~ msgid "nickname"
-#~ msgstr "لقب"
-
-#~ msgid "firstname"
-#~ msgstr "نام"
-
-#~ msgid "lastname"
-#~ msgstr "نام خانوادگی"
-
-#~ msgid "birthday"
-#~ msgstr "تاریخ تولد"
-
-#~ msgid "credit"
-#~ msgstr "اعتبار"
-
-#~ msgid "Go to"
-#~ msgstr "برو به"
-
-#~ msgid "Home Page"
-#~ msgstr "صفحه نخست"
-
-#~ msgid "Accounts"
-#~ msgstr "اکانت ها"
-
-#~ msgid "Bank"
-#~ msgstr "بانک"
-
-#~ msgid "Card"
-#~ msgstr "شماره کارت"
-
-#~ msgid "Addons"
-#~ msgstr "افزونه ها"
-
-#~ msgid "Name"
-#~ msgstr "نام"
-
-#~ msgid "Expire"
-#~ msgstr "منقضی شده"
-
-#~ msgid "Attachmentmetas"
-#~ msgstr "اطلاعات اضافی ضمیمه ها"
-
-#~ msgid "Attachment"
-#~ msgstr "ضمیمه"
-
-#~ msgid "File"
-#~ msgstr "فایل"
-
-#~ msgid "Addr"
-#~ msgstr "آدرس"
-
-#~ msgid "Banks"
-#~ msgstr "بانک ها"
-
-#~ msgid "Costcats"
-#~ msgstr "دسته بندی هزینه ها"
-
-#~ msgid "Costs"
-#~ msgstr "هزینه ها"
-
-#~ msgid "Costcat"
-#~ msgstr "دسته"
-
-#~ msgid "Fileparts"
-#~ msgstr "بخش های فایل ها"
-
-#~ msgid "Part"
-#~ msgstr "بخش"
-
-#~ msgid "Files"
-#~ msgstr "فایل ها"
-
-#~ msgid "Folder"
-#~ msgstr "پوشه"
-
-#~ msgid "Funds"
-#~ msgstr "صندوق ها"
-
-#~ msgid "Locations"
-#~ msgstr "مکان ها"
-
-#~ msgid "Id Sender"
-#~ msgstr "کد فرستنده"
-
-#~ msgid "Papers"
-#~ msgstr "اسناد"
-
-#~ msgid "Holder"
-#~ msgstr "نگهدارنده"
-
-#~ msgid "Productcats"
-#~ msgstr "دسته بندی کالا"
-
-#~ msgid "Productmetas"
-#~ msgstr "توضیح اضافی کالاها"
-
-#~ msgid "Productprices"
-#~ msgstr "قیمت کالاها"
-
-#~ msgid "Productmeta"
-#~ msgstr "توضیح اضافی کالا"
-
-#~ msgid "Vat"
-#~ msgstr "مالیات"
-
-#~ msgid "Products"
-#~ msgstr "کالاها"
-
-#~ msgid "Productcat"
-#~ msgstr "دسته کالا"
-
-#~ msgid "Sold"
-#~ msgstr "فروخته شده"
-
-#~ msgid "Receipts"
-#~ msgstr "رسیدها"
-
-#~ msgid "Paper"
-#~ msgstr "اسناد"
-
-#~ msgid "Transaction"
-#~ msgstr "تراکنش"
-
-#~ msgid "Fund"
-#~ msgstr "صندوق"
-
-#~ msgid "Smss"
-#~ msgstr "پیامک ها"
-
-#~ msgid "From"
-#~ msgstr "از"
-
-#~ msgid "To"
-#~ msgstr "به"
-
-#~ msgid "Transactiondetails"
-#~ msgstr "جزییات تراکنش ها"
-
-#~ msgid "Row"
-#~ msgstr "سطر"
-
-#~ msgid "Transactionmetas"
-#~ msgstr "اطلاعات اضافی تراکنش ها"
-
-#~ msgid "Transactions"
-#~ msgstr "تراکنش ها"
-
-#~ msgid "Sum"
-#~ msgstr "جمع"
-
-#~ msgid "Does not exist"
-#~ msgstr "هیچ داده ای موجود نیست"
-
-#~ msgid "Next page"
-#~ msgstr "صفحه بعد"
-
-#~ msgid "Please select one item"
-#~ msgstr "لطفا یک گزینه را انتخاب کنید"
-
-#~ msgid "now you can login and enjoy!"
-#~ msgstr "حالا می توانید وارد سامانه شده و از آن استفاده کنید!"
-
-#~ msgid "but you must reffer from one point!"
-#~ msgstr "ولی شما باید از جایی معرفی می شدید!"
-
-#~ msgid "Model"
-#~ msgstr "مدل"
-
-#~ msgid "init"
-#~ msgstr "ساخته شده"
-
-#~ msgid "you must first logined to system!"
-#~ msgstr "قبل از هرکاری شما ابتدا باید وارد سیستم شوید!"
-
-#~ msgid "Father"
-#~ msgstr "مادر"
-
-#~ msgid "emailforget"
-#~ msgstr "رایانامه بازیابی"
-
-#~ msgid "mobileregister"
-#~ msgstr "ثبت موبایل"
-
-#~ msgid "mobileforget"
-#~ msgstr "فراموش کردن موبایل"
-
-#~ msgid "mobile number is incorrect"
-#~ msgstr "این شماره موبایل اشتباه است"
-
-#~ msgid "Please forward this message to Administrator"
-#~ msgstr "لطفا این پیغام را برای مدیر سیستم ارسال کنید"
-
-#~ msgid "Step 1 of 2 is complete. Please check your mobile to continue"
-#~ msgstr "مرحله ۱ از ۲ کامل شد. لطفا تلفن همراه خود را چک کنید"
-
-#~ msgid "Edit Record successfully"
-#~ msgstr "ویرایش با موفقیت انجام شد."
-
-#~ msgid "All of records are null"
-#~ msgstr "تمام رکوردها بدون مقدار هستند"

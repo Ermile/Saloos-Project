@@ -36,12 +36,12 @@ private function transtext()
 	echo T_("We can register Ermile trademark:)");                                    // Line 135
 	echo T_("To be <br />continue...");                                               // Line 141
 	echo T_("Location");                                                              // Line 176
-	echo T_("#83 Moallem St");                                                        // Line 177
+	echo T_("#614, Omranieh, Moallem St");                                            // Line 177
 	echo T_("Qom, IRAN");                                                             // Line 177
 	echo T_("+98 25 3773 5183");                                                      // Line 177
 	echo T_("Another Languages");                                                     // Line 180
 	echo T_(" is a free to use, open source PHP framework created by");               // Line 189
-	echo T_("Copyright");                                                             // Line 201
+	echo T_("Copyright");                                                             // Line 198
 
 	//--------------------------------------------project\content\home\layout-xhr.html
 	echo T_("View your current location and navigate to parent of it");               // Line 9
