@@ -28,7 +28,7 @@
 
    <li class="langList">{%trans "Language List"%}</li>
 {%for key, lang in site.langlist if site.langlist|length >1 and site.currentlang != key|slice(0, 2)%}
-   <li ><a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}{{key|slice(0, 2)}}/{%endif%}{{url.path}}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a></li>
+   <li ><a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}/{{key|slice(0, 2)}}{%endif%}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a></li>
 {%endfor%}
   </ul>
  </nav>
@@ -180,7 +180,7 @@
       <h3>{%trans "Another Languages"%}</h3>
       <p>
 {%for key, lang in site.langlist if site.langlist|length >1 and site.currentlang != key|slice(0, 2)%}
-     <a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}{{key|slice(0, 2)}}/{%endif%}{{url.path}}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a>
+     <a href="{{url.root}}{%if site.defaultLang != key|slice(0, 2) %}/{{key|slice(0, 2)}}{%endif%}" hreflang="{{key|slice(0, 2)}}" data-action>{{lang}}</a>
 {%endfor%}
       </p>
      </div>
