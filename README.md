@@ -18,6 +18,7 @@ Already we don't have good documentaion! We hope can complete this before die!
 
 Changelog
 ---------
+ * Saloos is dead! follow Dash...
  * Version 2.0.0: many fix and update until now
  * Version 1.1.0: some fix and updates
  * Version 1.0.0: start publish on Github
